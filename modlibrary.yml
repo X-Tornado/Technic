@@ -6,6 +6,7 @@ mods:
         modtype: "content"
         link: ""
         versions:
+		 pepin-v0.0.1:
             hackslashmine-v0.6.0:
             hackslashmine-v0.5.3:
             hackslashmine-v0.5.2:
