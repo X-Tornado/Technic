@@ -512,6 +512,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
+            v1.7.0.1:
             v1.4.0.4:
             v1.4.0.3:
             v1.4.0.2:
@@ -1192,6 +1193,7 @@ mods:
         versions:
             v1.6r2:
             v1.7.1:
+            v1.14.0:
     voxelflight:
         name: "VoxelFlight"
         installtype: "zip"
