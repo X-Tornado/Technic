@@ -960,6 +960,7 @@ mods:
         versions:
             v1.0.0:
             v1.0.1:
+            v1.4.6:
     rc:
         name: "Railcraft"
         author: "CovertJaguar"
