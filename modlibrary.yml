@@ -959,6 +959,7 @@ mods:
         installtype: "zip"
         versions:
             v1.0.0:
+            v1.0.1:
     rc:
         name: "Railcraft"
         author: "CovertJaguar"
