@@ -6,7 +6,7 @@ lib-1:
 builds:
     0.0.1:
         libraries:
-        minecraft: 1.2.6
+        minecraft: 1.4.6
         forge: 489
         mods:
             basemods: pepin-v0.0.1
