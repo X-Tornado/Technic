@@ -133,7 +133,7 @@ mods:
         installtype: "zip"
         versions:
             v0.9.44:
-    zgravysuite:
+    zgravisuite:
         name: "Adventure Items"
         installtype: "zip"
         versions:
