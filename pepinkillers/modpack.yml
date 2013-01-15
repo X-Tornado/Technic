@@ -21,37 +21,37 @@ builds:
             inventorytweaks: v1.49
             ironchests: v4.5.2.213
             mffs: v2.2.8.2.14
-		 codechickencore: v0.7.0.2
+            codechickencore: v0.7.0.2
             nei: v1.4.5.0
-		 nei-plugins: v1.0.4.1
-		 nei-redpower: v1.4.3
-		 powercrystalscore: v1.0.1
+            nei-plugins: v1.0.4.1
+            nei-redpower: v1.4.3
+            powercrystalscore: v1.0.1
             powerconverters: v1.4.6
             rc: v6.13.1.0
             redpower: v2.0.5b2
             reisminimap: v3.2_06
             wrcbe: v1.3.2.4
-		 wrcbe-addons: v1.3.2.4
-    	       wrcbe-redpower: v1.3.2.4
-		 thaumcraft: v3.0.1c
-		 thermalexpansion: v2.1.6
-		 nei-thermalexpansion: v2.1.6
-		 stevescarts: v2.0.0.a42
-		 chickenchunks: v1.2.1.1
-		 factorization: v0.7.10
-		 buildcraft-logisticspipes: v0.7.0.pre2
-		 buildcraft-objects: v0.9.6.73
-		 omnitools: v2.2.5
-		 twilightforest: v1.14.0
-		 chargepads: v2.3.0.58
-		 soulshards: v1.26
-		portalgun: v1.4.7v2
-		 traincraft: v3.1.13_010
-		extrabiomesxl: v1.4.7-3.8.0
-		extrabees: v1.4.9.12-pre
-		forestry: v1.7.0.1
-		miscperipherals: v2.3
-		zgravisuite: v1.6
-		obsidiplates: v1.2.0.3
-		xycraft: v0.9.44
-		petrogen: v1.1
+            wrcbe-addons: v1.3.2.4
+            wrcbe-redpower: v1.3.2.4
+            thaumcraft: v3.0.1c
+            thermalexpansion: v2.1.6
+            nei-thermalexpansion: v2.1.6
+            stevescarts: v2.0.0.a42
+            chickenchunks: v1.2.1.1
+            factorization: v0.7.10
+            buildcraft-logisticspipes: v0.7.0.pre2
+            buildcraft-objects: v0.9.6.73
+            omnitools: v2.2.5
+            twilightforest: v1.14.0
+            chargepads: v2.3.0.58
+            soulshards: v1.26
+            portalgun: v1.4.7v2
+            traincraft: v3.1.13_010
+            extrabiomesxl: v1.4.7-3.8.0
+            extrabees: v1.4.9.12-pre
+            forestry: v1.7.0.1
+            miscperipherals: v2.3
+            zgravisuite: v1.6
+            obsidiplates: v1.2.0.3
+            xycraft: v0.9.44
+            petrogen: v1.1
