@@ -82,50 +82,62 @@ mods:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v3.3.2:
     chargepads:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v2.3.0.58:
     extrabees:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v1.4.9.12-pre:
     extrabiomesxl:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v1.4.7-3.8.0:
     miscperipherals:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v2.3:
     obsidiplates:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v1.2.0.3:
     petrogen:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v1.1:
     portalgun:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v1.4.7v2:
     soulshards:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v1.26:
     traincraft:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v3.1.13_010:
     xycraft:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v0.9.44:
     zgravysuite:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v1.6:
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
