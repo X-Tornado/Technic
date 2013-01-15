@@ -78,7 +78,52 @@ mods:
             voxelmodpack-v8.3.0:
             voxelmodpack-v8.2.0:
             voxelmodpack-v8.1.0:
-	ic2-advancedsolarpanels:
+			
+    ic2-advancedsolarpanels:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+    chargepads:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+    extrabees:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+    extrabiomesxl:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+    miscperipherals:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+    obsidiplates:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+    petrogen:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+    portalgun:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+    soulshards:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+    traincraft:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+    xycraft:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+    zgravysuite:
         name: "Adventure Items"
         installtype: "zip"
         versions:
