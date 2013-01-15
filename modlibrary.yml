@@ -267,6 +267,7 @@ mods:
         name: "BuildCraft Objects"
         installtype: "zip"
         versions:
+            v0.9.6.73:
             v0.9.4.65:
             v100:
             v85:
