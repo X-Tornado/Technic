@@ -77,7 +77,7 @@ mods:
             voxelmodpack-v8.4.0:
             voxelmodpack-v8.3.0:
             voxelmodpack-v8.2.0:
-            voxelmodpack-v8.1.0:		
+            voxelmodpack-v8.1.0:	
     ic2-advancedsolarpanels:
         name: "Adventure Items"
         installtype: "zip"
