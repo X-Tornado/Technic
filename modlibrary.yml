@@ -83,6 +83,11 @@ mods:
         installtype: "zip"
         versions:
             v1.4.6:
+    thaumicbees:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+            v1.1.702-67:
     mobamputation:
         name: "Adventure Items"
         installtype: "zip"
@@ -173,6 +178,11 @@ mods:
         installtype: "zip"
         versions:
             v2.75b:
+    rp2brushwool:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+            v1.4.6:
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
@@ -552,6 +562,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
+            v1.7.0.5:
             v1.7.0.1:
             v1.4.0.4:
             v1.4.0.3:

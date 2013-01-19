@@ -4,7 +4,7 @@ recommended: 0.0.3
 latest: 0.0.3
 lib-1: 
 builds:
-    0.0.3:
+    0.0.4:
         libraries:
         minecraft: 1.4.7
         forge: 489
@@ -49,7 +49,7 @@ builds:
             traincraft: v3.1.13_010
             extrabiomesxl: v1.4.7-3.8.0
             extrabees: v1.4.9.12-pre
-            forestry: v1.7.0.1
+            forestry: v1.7.0.5
             miscperipherals: v2.3
             zgravisuite: v1.6
             obsidiplates: v1.2.0.3
@@ -64,4 +64,5 @@ builds:
 #           idresolver: v1.4.6.1
             battletowers: v1.4.6
             invasion: v0.11.5
-            
+            thaumicbees: v1.1.702-67
+            rp2brushwool: v1.4.6
