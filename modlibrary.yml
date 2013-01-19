@@ -83,6 +83,11 @@ mods:
         installtype: "zip"
         versions:
             v1.4.6:
+    flansmod-ww2:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+            v1.1.0:
     thaumicbees:
         name: "Adventure Items"
         installtype: "zip"
