@@ -94,7 +94,7 @@ mods:
         versions:
             v1.4.6:
     parachute:
-        name: "Adventure Items"
+        name: "Parachute"
         installtype: "zip"
         versions:
             v1.4.7:
