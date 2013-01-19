@@ -138,6 +138,11 @@ mods:
         installtype: "zip"
         versions:
             v1.6:
+    gregtech:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+            v2.75b:
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
