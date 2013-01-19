@@ -63,4 +63,5 @@ builds:
 #           guiapi: v0.15.2
 #           idresolver: v1.4.6.1
             battletowers: v1.4.6
+            invasion: v0.11.5
             

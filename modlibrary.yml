@@ -215,6 +215,10 @@ mods:
             v1.2.3:
             v1.2.5:
             v1.4.6:
+    invasion:
+        installtype: "zip"
+        versions:
+            v0.11.5:
     betterdungeons:
         installtype: "zip"
         versions:
