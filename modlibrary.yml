@@ -83,6 +83,21 @@ mods:
         installtype: "zip"
         versions:
             v1.4.6:
+    mobamputation:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+            v1.4.6v1:
+    legendarybeasts:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+            v1.4.6:
+    parachute:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+            v1.4.7:
     ic2-advancedsolarpanels:
         name: "Adventure Items"
         installtype: "zip"
