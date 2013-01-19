@@ -1,7 +1,7 @@
 launcher:
 current:
-recommended: 0.0.3
-latest: 0.0.3
+recommended: 0.0.4
+latest: 0.0.4
 lib-1: 
 builds:
     0.0.4:
