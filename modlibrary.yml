@@ -93,6 +93,16 @@ mods:
         installtype: "zip"
         versions:
             v1.4.6:
+    guiapi:
+        name: "GuiApi"
+        installtype: "zip"
+        versions:
+            v0.15.2:
+    idresolver:
+        name: "GuiApi"
+        installtype: "zip"
+        versions:
+            v1.4.6.1:
     parachute:
         name: "Parachute"
         installtype: "zip"
