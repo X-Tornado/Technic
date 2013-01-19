@@ -98,6 +98,11 @@ mods:
         installtype: "zip"
         versions:
             v1.4.6:
+    flansmod:
+        name: "GuiApi"
+        installtype: "zip"
+        versions:
+            v2.1.1:
     guiapi:
         name: "GuiApi"
         installtype: "zip"
