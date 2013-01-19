@@ -1,10 +1,10 @@
 launcher:
 current:
-recommended: 0.0.2
-latest: 0.0.2
+recommended: 0.0.3
+latest: 0.0.3
 lib-1: 
 builds:
-    0.0.2:
+    0.0.3:
         libraries:
         minecraft: 1.4.7
         forge: 489
@@ -56,10 +56,11 @@ builds:
             xycraft: v0.9.44
             petrogen: v1.1
             gregtech: v2.75b
-            tropicraft: v1.4.6
+#            tropicraft: v1.4.6
             parachute: v1.4.7
             legendarybeasts: v1.4.6
             mobamputation: v1.4.6v1
 #           guiapi: v0.15.2
 #           idresolver: v1.4.6.1
+            battletowers: v1.4.6
             

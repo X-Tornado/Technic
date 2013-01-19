@@ -214,6 +214,7 @@ mods:
             v1.1:
             v1.2.3:
             v1.2.5:
+            v1.4.6:
     betterdungeons:
         installtype: "zip"
         versions:
