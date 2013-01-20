@@ -1,10 +1,10 @@
 launcher:
 current:
-recommended: 0.0.7
-latest: 0.0.7
+recommended: 0.0.8
+latest: 0.0.8
 lib-1: 
 builds:
-    0.0.7:
+    0.0.8:
         libraries:
         minecraft: 1.4.7
         forge: 489
@@ -60,7 +60,7 @@ builds:
             parachute: v1.4.7
             legendarybeasts: v1.4.6
             mobamputation: v1.4.6v1
-            guiapi: v0.15.2
+#           guiapi: v0.15.2
 #           idresolver: v1.4.6.1
             battletowers: v1.4.6
             invasion: v0.11.5
@@ -69,5 +69,5 @@ builds:
             flansmod: v2.1.1
             flansmod-ww2: v1.1.0
             flansmod-simpleparts: v1.1.0
-            custommobspawner: v1.11
-            mocreatures: v4.5.1
+#            custommobspawner: v1.11
+#            mocreatures: v4.5.1
