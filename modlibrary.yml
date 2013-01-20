@@ -452,6 +452,11 @@ mods:
         installtype: "zip"
         versions:
             v1.2.5.a:
+    mutantcreatures:
+        name: "Crystal Wing"
+        installtype: "zip"
+        versions:
+            v1.2.1:
     custommobspawner:
         name: "Custom Mob Spawner"
         installtype: "zip"
