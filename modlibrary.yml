@@ -462,6 +462,11 @@ mods:
         installtype: "zip"
         versions:
             v1.11:
+    mobspawncontrol:
+        name: "Custom Mob Spawner"
+        installtype: "zip"
+        versions:
+            v1.4.6.1:
     dimanchor:
         name: "Dimensional Anchors"
         author: "immibis"

@@ -1,10 +1,10 @@
 launcher:
 current:
-recommended: 0.0.9
-latest: 0.0.9
+recommended: 0.1.0
+latest: 0.1.0
 lib-1: 
 builds:
-    0.0.9:
+    0.1.0:
         libraries:
         minecraft: 1.4.7
         forge: 489
@@ -72,3 +72,4 @@ builds:
 #            custommobspawner: v1.11
 #            mocreatures: v4.5.1
             mutantcreatures: v1.2.1
+            mobspawncontrol: v1.4.6.1
