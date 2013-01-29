@@ -9,8 +9,6 @@ builds:
         minecraft: 1.4.7
         forge: 489
         mods:
-            basemods: pepin-v0.0.1
-            basemods: z-pepin-config-v0.0.1
             buildcraft: v3.3.0
             buildcraft-additionalpipes: v2.1.3.u40
             computercraft: v1.481
@@ -75,3 +73,5 @@ builds:
             mutantcreatures: v1.2.1
             mobspawncontrol: v1.4.6.1
             alienvspredator: v2.9.7
+            basemods: pepin-v0.0.1
+            configs: pepin-v0.0.1

@@ -7,7 +7,6 @@ mods:
         link: ""
         versions:
             pepin-v0.0.1:
-            z-pepin-config-v0.0.1:
             hackslashmine-v0.6.0:
             hackslashmine-v0.5.3:
             hackslashmine-v0.5.2:
@@ -79,6 +78,14 @@ mods:
             voxelmodpack-v8.3.0:
             voxelmodpack-v8.2.0:
             voxelmodpack-v8.1.0:
+    configs:
+        name: "Jar modification Mods"
+        description: "Rest of Mods not yet seperated out"
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            pepin-v0.0.1:
     tropicraft:
         name: "Adventure Items"
         installtype: "zip"
