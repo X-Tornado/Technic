@@ -10,6 +10,7 @@ builds:
         forge: 489
         mods:
             basemods: pepin-v0.0.1
+            basemods: z-pepin-config-v0.0.1
             buildcraft: v3.3.0
             buildcraft-additionalpipes: v2.1.3.u40
             computercraft: v1.481
