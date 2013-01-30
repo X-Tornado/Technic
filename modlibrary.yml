@@ -114,6 +114,11 @@ mods:
         installtype: "zip"
         versions:
             v0.3.2b:
+    tinkers-construct:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+            v1.0.7:
     mobamputation:
         name: "Adventure Items"
         installtype: "zip"
