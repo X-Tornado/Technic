@@ -109,6 +109,11 @@ mods:
         installtype: "zip"
         versions:
             v1.1.702-67:
+    undergroundbiomes:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+            v0.3.2b:
     mobamputation:
         name: "Adventure Items"
         installtype: "zip"
