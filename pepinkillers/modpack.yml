@@ -1,10 +1,10 @@
 launcher:
 current:
-recommended: 0.1.6
-latest: 0.1.6
+recommended: 0.1.7
+latest: 0.1.7
 lib-1: 
 builds:
-    0.1.6:
+    0.1.7:
         libraries:
         minecraft: 1.4.7
         forge: 489
