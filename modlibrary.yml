@@ -86,6 +86,14 @@ mods:
         link: ""
         versions:
             pepin-v0.0.1:
+    aurorarubealis:
+        name: "Jar modification Mods"
+        description: "Rest of Mods not yet seperated out"
+        installtype: "zip"
+        modtype: "content"
+        link: "http://www.minecraftforum.net/topic/1625503-147-aurora-rubealis-v101-auroras-in-minecraft/"
+        versions:
+            v101:            
     tropicraft:
         name: "Adventure Items"
         installtype: "zip"

@@ -1,7 +1,7 @@
 launcher:
 current:
-recommended: 0.1.3
-latest: 0.1.3
+recommended: 0.1.4
+latest: 0.1.4
 lib-1: 
 builds:
     0.1.3:
@@ -73,5 +73,6 @@ builds:
             mutantcreatures: v1.2.1
             mobspawncontrol: v1.4.6.1
 #            alienvspredator: v2.9.7
+            aurorarubealis: v101
             basemods: pepin-v0.0.1
             configs: pepin-v0.0.1
