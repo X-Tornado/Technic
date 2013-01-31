@@ -938,6 +938,11 @@ mods:
             v0.9.5.00:
             v0.9.4.05:
             v0.9.4.00:
+    forgeessentials:
+        name: "ForgeEssentials"
+        installtype: "zip"
+        versions:
+            v1.1.0.248:
     nei:
         name: "Not Enough Items"
         author: "chicken_bones"
