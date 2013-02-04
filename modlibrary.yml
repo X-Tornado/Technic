@@ -1665,3 +1665,8 @@ mods:
             v1.2.0:
             v1.2.1:
             v1.2.5:
+    animalbikes:
+        name: "Yogbox Configs"
+        installtype: "zip"
+        versions:
+            v1.4.6:
