@@ -1,5 +1,7 @@
 modpacks:
      pepinkillers: 'PepinCraft'
+     pepinkillers_optifine: 'PepinCraft + optifine'
+     pepinkillers_optifine_shaders: 'PepinCraft + optifine + shaders'
 #    technicssp: 'Technic SSP'
 #    tekkitlite: 'Tekkit Lite'
 #    tekkit: 'Tekkit'
