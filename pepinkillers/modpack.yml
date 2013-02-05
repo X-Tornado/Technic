@@ -78,6 +78,6 @@ builds:
             tinkers-construct: v1.0.7
             forgeessentials: v1.1.0.248
 #            animalbikes: v1.4.6
-            basemods: pepin_base-v0.0.1
+            basepepin: pepin_base-v0.0.1
             basemods: pepin-v0.0.1
             configs: pepin-v0.0.1
