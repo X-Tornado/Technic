@@ -7,6 +7,9 @@ mods:
         link: ""
         versions:
             pepin-v0.0.1:
+            pepin_base-v0.0.1:
+            pepin_optifine-v0.0.1:
+            pepin_optifine_shaders-v0.0.1:
             hackslashmine-v0.6.0:
             hackslashmine-v0.5.3:
             hackslashmine-v0.5.2:
