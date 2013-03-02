@@ -103,7 +103,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/1625503-147-aurora-rubealis-v101-auroras-in-minecraft/"
         versions:
-            v101:            
+            v101:
     tropicraft:
         name: "Adventure Items"
         installtype: "zip"
@@ -261,6 +261,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/211517-146forge-balkons-weaponmod-v110/"
         installtype: "zip"
         versions:
+            v1.10.3:
             v1.10-1.4.6:
             v1.10:
             v8.6:
@@ -321,7 +322,7 @@ mods:
             v2.2.11:
                 dependencies:
                     baseforge: 1.2.4
-            v2.2.7: 
+            v2.2.7:
                 md5: "03fd974285584b306af080a5e5e6edc7"
                 dependencies:
                     baseforge: 1.2.3
@@ -948,6 +949,7 @@ mods:
             v0.9.5.00:
             v0.9.4.05:
             v0.9.4.00:
+            v0.10.0.00:
     forgeessentials:
         name: "ForgeEssentials"
         installtype: "zip"
@@ -1680,3 +1682,64 @@ mods:
         installtype: "zip"
         versions:
             v1.4.6:
+    appeng:
+        name: "Applied Energistics"
+        installtype: "zip"
+        versions:
+            rv8:
+    bibliocraft:
+        name: "Biblio Craft"
+        installtype: "zip"
+        versions:
+            v1.0.2:
+                bibliocraft:
+    buildcraft-valvepipeAM:
+        name: "BuildCraft-Z-ValvePipeAM"
+        installtype: "zip"
+        versions:
+            v1.3.2:
+    chococraft:
+        name: "Chocobos"
+        installtype: "zip"
+        versions:
+            v2.5.3:
+    doubledoor:
+        name: "Double door fix"
+        installtype: "zip"
+        versions:
+            v4.5:
+    gravitygun:
+        name: "Gravity Gun"
+        installtype: "zip"
+        versions:
+            v1.4.7v1:
+    mpowersuits:
+        name: " Modular Powersuits"
+        installtype: "zip"
+        versions:
+            v2.0.45:
+    pluginsforestry:
+        name: " Modular Powersuits"
+        installtype: "zip"
+        versions:
+            build28:
+    secretrooms:
+        name: " Secret Rooms"
+        installtype: "zip"
+        versions:
+            v4.5.0.190:
+    trialmix:
+        name: "Trial Mix"
+        installtype: "zip"
+        versions:
+            v1.4.7v3:
+    usefulfood:
+        name: "Useful Food"
+        installtype: "zip"
+        versions:
+            v1.3.1:
+    xreliquary:
+        name: "XReliquary"
+        installtype: "zip"
+        versions:
+            v1.05b:
