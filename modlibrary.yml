@@ -118,6 +118,7 @@ mods:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v1.4.3a:
             v1.1.702-67:
     undergroundbiomes:
         name: "Adventure Items"
@@ -178,16 +179,19 @@ mods:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v1.5.0.4:
             v1.4.9.12-pre:
     extrabiomesxl:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v3.10.0:
             v1.4.7-3.8.0:
     miscperipherals:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v3.1b:
             v2.3:
     obsidiplates:
         name: "Adventure Items"
@@ -198,6 +202,7 @@ mods:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v1.2.1:
             v1.1:
     portalgun:
         name: "Adventure Items"
@@ -218,6 +223,7 @@ mods:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v0.10.18:
             v0.9.44:
     zgravisuite:
         name: "Adventure Items"
@@ -228,6 +234,7 @@ mods:
         name: "Adventure Items"
         installtype: "zip"
         versions:
+            v2.80c:
             v2.75b:
     rp2brushwool:
         name: "Adventure Items"
@@ -300,6 +307,7 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
+            v3.4.3:
             v3.4.0:
             v3.3.0:
             v3.2.2:
@@ -349,6 +357,7 @@ mods:
         name: "Buildcraft Logistic Pipes"
         installtype: "zip"
         versions:
+            v0.7.0.83:
             v0.7.0.75:
             v0.6.9.51:
             v0.6.9.32:
@@ -412,6 +421,7 @@ mods:
         name: "ChickenChunks"
         installtype: "zip"
         versions:
+            v1.3.1.0:
             v1.2.1.1:
             v1.2.1.0:
     codechickencore:
@@ -421,6 +431,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/"
         installtype: "zip"
         versions:
+            v0.7.3:
             v0.7.0.2:
             v0.7.0.1:
             v0.7.0.0:
@@ -443,6 +454,7 @@ mods:
         modtype: "content"
         link: "http://www.computercraft.info/"
         versions:
+            v1.5:
             v1.481:
             v1.47:
             v1.46:
@@ -590,6 +602,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1160665-closed-quiddity-modding/"
         installtype: "zip"
         versions:
+            v1.4.1.2:
             v1.3.1.1:
             v1.3.1.0:
             v1.3.0.4:
@@ -623,6 +636,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
+            v2.0.0.11:
             v1.7.0.5:
             v1.7.0.1:
             v1.4.0.4:
@@ -646,6 +660,7 @@ mods:
         modtype: "content"
         link: "http://www.industrial-craft.net/"
         versions:
+            v1.115.218-lf:
             v1.112.170:
             v1.110.137:
             v1.109.113:
@@ -776,6 +791,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/323444-inventory-tweaks-141b-mar-27/"
         optional: true
         versions:
+            v1.50:
             v1.49:
             v1.46:
             v1.45:
@@ -798,6 +814,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/981855-"
         installtype: "zip"
         versions:
+            v5.1.0.261:
             v4.5.2.213:
             v4.5.1.199:
             v4.4.0.186:
@@ -875,6 +892,7 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Thread&postID=65261"
         installtype: "zip"
         versions:
+            v2.2.8.3.6:
             v7:
             v6:
             v5:
@@ -962,6 +980,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/"
         installtype: "zip"
         versions:
+            v1.4.7.0:
             v1.4.5.0:
             v1.4.4.0:
             v1.4.3.4:
@@ -1047,6 +1066,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1378315-"
         installtype: "zip"
         versions:
+            v3.0.4:
             v2.2.5:
             v2.2.3:
     pfaeff:
@@ -1084,6 +1104,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         wiki: "http://railcraft.wikispaces.com/"
         versions:
+            v6.17.0.0:
             v6.13.1.0:
             v6.12.2.0:
             v6.12.1.0:
@@ -1205,6 +1226,7 @@ mods:
         name: "Steve's Carts"
         installtype: "zip"
         versions:
+            v2.0.0.a61:
             v2.0.0.a42:
             v2.0.0.a41:
             v2.0.0.a40:
@@ -1218,6 +1240,7 @@ mods:
         name: "Thaumcraft"
         installtype: "zip"
         versions:
+            v3.0.3:
             v3.0.1c:
             v2.1.6d:
             v2.1.6c:
@@ -1241,6 +1264,7 @@ mods:
         wiki: "http://thermalexpansion.wikispaces.com/"
         installtype: "zip"
         versions:
+            v2.2.2.2:
             v2.1.6:
             v2.1.5:
             v2.1.4:
@@ -1535,6 +1559,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/909223-"
         installtype: "zip"
         versions:
+            v1.3.2.8:
             v1.3.2.4:
             v1.3.2:
             v1.3.1.1:
@@ -1546,6 +1571,7 @@ mods:
         name: "WRCBE Addons"
         installtype: "zip"
         versions:
+            v1.3.2.8:
             v1.3.2.4:
             v1.3.2:
             v1.3.1.2:
@@ -1553,6 +1579,7 @@ mods:
         name: "WRCBE RedPower Addon"
         installtype: "zip"
         versions:
+            v1.3.2.8:
             v1.3.2.4:
             v1.3.2:
     xpbook:

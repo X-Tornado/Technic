@@ -25,52 +25,52 @@ builds:
             buildcraft-valvepipeAM: v1.3.2
             bibliocraft: v1.0.2
             appeng: rv8
-            buildcraft: v3.3.0
+            buildcraft: v3.4.3
             buildcraft-additionalpipes: v2.1.3.u40
-            computercraft: v1.481
-            enderstorage: v1.3.1.1
-            ic2: v1.112.170
+            computercraft: v1.5
+            enderstorage: v1.4.1.2
+            ic2: v1.115.218-lf
             ic2-advancedmachines: v4.7
             ic2-advancedsolarpanels: v3.3.2
             ic2-nuclearcontrol: v1.4.5
-            inventorytweaks: v1.49
-            ironchests: v4.5.2.213
-            mffs: v2.2.8.2.14
-            codechickencore: v0.7.0.2
-            nei: v1.4.5.0
+            inventorytweaks: v1.50
+            ironchests: v5.1.0.261
+            mffs: v2.2.8.3.6
+            codechickencore: v0.7.3
+            nei: v1.4.7.0
             nei-plugins: v1.0.4.1
             nei-redpower: v1.4.3
             powercrystalscore: v1.0.1
             powerconverters: v1.4.6
-            rc: v6.13.1.0
+            rc: v6.17.0.0
             redpower: v2.0.6
             reisminimap: v3.2_06
-            wrcbe: v1.3.2.4
-            wrcbe-addons: v1.3.2.4
-            wrcbe-redpower: v1.3.2.4
-            thaumcraft: v3.0.1c
-            thermalexpansion: v2.1.6
+            wrcbe: v1.3.2.8
+            wrcbe-addons: v1.3.2.8
+            wrcbe-redpower: v1.3.2.8
+            thaumcraft: v3.0.3
+            thermalexpansion: v2.2.2.2
             nei-thermalexpansion: v2.1.6
-            stevescarts: v2.0.0.a42
-            chickenchunks: v1.2.1.1
+            stevescarts: v2.0.0.a61
+            chickenchunks: v1.3.1.0
             factorization: v0.7.10
-            buildcraft-logisticspipes: v0.7.0.75
+            buildcraft-logisticspipes: v0.7.0.83
             buildcraft-objects: v0.9.6.73
-            omnitools: v2.2.5
+            omnitools: v3.0.4
             twilightforest: v1.14.0
             chargepads: v2.3.0.58
             soulshards: v1.26
             portalgun: v1.4.7v2
-           # traincraft: v3.1.13_010
-            extrabiomesxl: v1.4.7-3.8.0
-            extrabees: v1.4.9.12-pre
-            forestry: v1.7.0.5
-            miscperipherals: v2.3
+            #traincraft: v3.1.13_010
+            extrabiomesxl: v3.10.0
+            extrabees: v1.5.0.4
+            forestry: v2.0.0.11
+            miscperipherals: v3.1b
             zgravisuite: v1.6
             obsidiplates: v1.2.0.3
-            xycraft: v0.9.44
-            petrogen: v1.1
-            gregtech: v2.75b
+            xycraft: v0.10.18
+            petrogen: v1.2.1
+            gregtech: v2.80c
 #            tropicraft: v1.4.6
             parachute: v1.4.7
             legendarybeasts: v1.4.6
@@ -79,7 +79,7 @@ builds:
 #           idresolver: v1.4.6.1
             battletowers: v1.4.6
             invasion: v0.11.5
-            thaumicbees: v1.1.702-67
+            thaumicbees: v1.4.3a
 #            rp2brushwool: v1.4.6
             flansmod: v2.1.1
             flansmod-ww2: v1.1.0

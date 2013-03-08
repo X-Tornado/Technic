@@ -74,6 +74,7 @@ F8D3F43F823F9B61A85DDE9EAC8D443B|mods\buildcraft\buildcraft-v3.1.8.zip
 A72048036FB6AABF3EA177471A1697F3|mods\buildcraft\buildcraft-v3.2.2.zip
 5CCD139F11806E0A563C953D1DD130BC|mods\buildcraft\buildcraft-v3.3.0.zip
 B7C8CE13396BEC3BD4BD0C4894F7A32B|mods\buildcraft\buildcraft-v3.4.0.zip
+514989B2DF486E0C5F14187947B93D20|mods\buildcraft\buildcraft-v3.4.3.zip
 60CFFA10C45A3C8E743818A6195E320A|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v2.1.3.u28.b2.zip
 716166953A7D5C107CCD7191C75645BD|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v2.1.3.u35.zip
 046938369B9B433A032CBEFC1D99D2AA|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v2.1.3.u36.zip
@@ -102,6 +103,7 @@ ED3C3DBD4545C7A027E74DB6871C8B1E|mods\buildcraft-logisticspipes\buildcraft-logis
 6F231BF5793B2A73799ADFE1FF239500|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.6.9.32.zip
 2E1CECD6FC76C2FE267A1E03F169FD8E|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.6.9.51.zip
 B8A9D6CC5793BD2153ED9701DEE6B39F|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.7.0.75.zip
+8929B5CDB947894AAF51A02F2219DB3F|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.7.0.83.zip
 9A73207D65717647132188CA7F622ED6|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.7.0.pre2.zip
 317C818F9434AFD345E775C3AE50706C|mods\buildcraft-objects\buildcraft-objects-v0.9.4.65.zip
 7C20AC392E0CC0F85CC68655EA3DDC65|mods\buildcraft-objects\buildcraft-objects-v0.9.6.73.zip
@@ -123,6 +125,7 @@ FA8D72C61218D050399847319B8437C1|mods\chargingbench\chargingbench-v1.81-1.zip
 BC439EEBA8BBF87F6ECEE9D0413A3C7D|mods\chargingbench\chargingbench-v1.95b.zip
 1037D92880421308D8193A73224827A7|mods\chickenchunks\chickenchunks-v1.2.1.0.zip
 240E2355C47728431C838E590D1A48B0|mods\chickenchunks\chickenchunks-v1.2.1.1.zip
+99C42280D2AEA68317FA9C618A52BD66|mods\chickenchunks\chickenchunks-v1.3.1.0.zip
 13AACCFAD96D40A8E1570CEEF0EB331E|mods\chococraft\chococraft-v2.5.3.zip
 F9A9709F2583CD80FFF4FD04EB106A7D|mods\codechickencore\codechickencore-v0.4.2.zip
 62E2D720D34CBC9052734001BAC80DDB|mods\codechickencore\codechickencore-v0.4.4.zip
@@ -139,6 +142,7 @@ AEFE8A9871CB049EC00DD5CED554381B|mods\codechickencore\codechickencore-v0.6.6.1.z
 2CF988665A2F344423A8C73FBFC63F30|mods\codechickencore\codechickencore-v0.7.0.0.zip
 A5F85C8358310FD036654333CFA54AC2|mods\codechickencore\codechickencore-v0.7.0.1.zip
 922A69BFA4C63E60F122A4271B9351A2|mods\codechickencore\codechickencore-v0.7.0.2.zip
+B3DF668B9F02945D9758AC34DBB0CEF4|mods\codechickencore\codechickencore-v0.7.3.zip
 5EEFE5BC665FB7D3D91199CF3AC86F23|mods\computercraft\computercraft-v1.2.zip
 3D99F30534CE8742CAAC292619D383AC|mods\computercraft\computercraft-v1.21.zip
 8C9703BFC28461C7C29F3DF7059FA750|mods\computercraft\computercraft-v1.3.zip
@@ -149,6 +153,7 @@ ACA3B3A64052F9E62992194140C6BEE5|mods\computercraft\computercraft-v1.33.zip
 2F7CF81829870BC206A3C15886FC4FC3|mods\computercraft\computercraft-v1.46.zip
 5F2CAE77BA1E2D4C952A95BE89BEC5F1|mods\computercraft\computercraft-v1.47.zip
 46E0972DF52D6B74978061B5B6E90F4B|mods\computercraft\computercraft-v1.481.zip
+7CFC8342811B80B89EB8F683FBBEF735|mods\computercraft\computercraft-v1.5.zip
 150F51B2C1F5F8614AA64985603DF716|mods\configs\configs-pepin-v0.0.1.zip
 EC6CDF2D4FDE191EFA4B987F71E7668C|mods\craftguide\craftguide-v1.3.0.zip
 1CEBC5CA4802895D69AFC69FFEF6EB9C|mods\craftguide\craftguide-v1.3.1.zip
@@ -205,8 +210,11 @@ A908558D899620DA14DD8429D135072F|mods\enderstorage\enderstorage-v1.3.0.3.zip
 79EF721FD49C959473C16E3C7D2EA1EF|mods\enderstorage\enderstorage-v1.3.0.4.zip
 41F31DDFDB3D800A56F9F1F5067C5281|mods\enderstorage\enderstorage-v1.3.1.0.zip
 6B61D4B6F1EEB19CA5C8487B57C2FC0A|mods\enderstorage\enderstorage-v1.3.1.1.zip
+FE6F349B4561173BB2563EBD85256EE5|mods\enderstorage\enderstorage-v1.4.1.2.zip
 073D9614F824BE03275E7EB7F8185F06|mods\extrabees\extrabees-v1.4.9.12-pre.zip
+C50A9B4CC6168AA82DDC2536EE575998|mods\extrabees\extrabees-v1.5.0.4.zip
 B61C7E3174D17FE3CE0171918DD37A1A|mods\extrabiomesxl\extrabiomesxl-v1.4.7-3.8.0.zip
+24655532ACA201859AB5FF4639D0598D|mods\extrabiomesxl\extrabiomesxl-v3.10.0.zip
 E766D0D95634D553228A0E80DA75CF84|mods\factorization\factorization-v0.7.10.zip
 C49D1EF9746DA3D741A72437E33AEE2C|mods\factorization\factorization-v0.7.7.zip
 01085A92A4873118838FE7B6B49E8E37|mods\flansmod\flansmod-v2.1.1.zip
@@ -229,15 +237,18 @@ B81F924CE3080562BE28848ABD32B91B|mods\forestry\forestry-v1.4.0.1.zip
 16904DF1F2E6A61138F53792BC15B161|mods\forestry\forestry-v1.4.0.4.zip
 ADF9A85B3240C92631390240C30B5DBE|mods\forestry\forestry-v1.7.0.1.zip
 090A32C5D2685635372C95E1D156362D|mods\forestry\forestry-v1.7.0.5.zip
+7E60DB30DEEFFC708F88DA1D5A6DDD63|mods\forestry\forestry-v2.0.0.11.zip
 D60970D67C674171D325BBBDEE765CC3|mods\forgeessentials\forgeessentials-v1.1.0.248.zip
 6BAA1A3910BC8A28B164D21EBE5B4091|mods\gravitygun\gravitygun-v1.4.7v1.zip
 D79F03FEFCD9B50C139748A4B14E2D82|mods\gregtech\gregtech-v2.75b.zip
+81029C562B029167D42C51CA2D940018|mods\gregtech\gregtech-v2.80c.zip
 A0FA8C478E72EC1551513874F15FFAE1|mods\guiapi\guiapi-v0.15.2.zip
 E4145B8A885361D5A924BB3FD6155B35|mods\ic2\ic2-v1.103.zip
 B4DBFD545745BF8F9C0F7ED0BE38B77A|mods\ic2\ic2-v1.108.71.zip
 9D4C84CA9B6731530FD811B38D514C7E|mods\ic2\ic2-v1.109.113.zip
 5FC48305A9AD99C764D72D364D8204B3|mods\ic2\ic2-v1.110.137.zip
 8C305CC16F6DE4D66A191BEE53D7D443|mods\ic2\ic2-v1.112.170.zip
+C09B4230705230433D9E3C1007A00F91|mods\ic2\ic2-v1.115.218-lf.zip
 7DA881AFA458EC54EC0B2E71DBB85A3E|mods\ic2\ic2-v1.42.zip
 3E1DE79032E4BD06AB952090FC70A805|mods\ic2\ic2-v1.43.zip
 D9C57518F6D9E4AA125745D1CA0359AC|mods\ic2\ic2-v1.64.zip
@@ -311,6 +322,7 @@ EA744C9683828308874F6D1361FFB865|mods\inventorytweaks\inventorytweaks-v1.44.zip
 34343DBDFD33E0E15B344EB60959C173|mods\inventorytweaks\inventorytweaks-v1.45.zip
 752A519667A47C71D882416A49845EAF|mods\inventorytweaks\inventorytweaks-v1.46.zip
 2A8454A138901FD9BBAADD91A323F584|mods\inventorytweaks\inventorytweaks-v1.49.zip
+2894405DEA97C55AC48C891CFAB9B025|mods\inventorytweaks\inventorytweaks-v1.50.zip
 CF8EEBD8B6141E9B33C5D8089ABD003B|mods\ironchests\ironchests-v2.5.zip
 F66183DA961EE9CA2AFDC0D1461C9C5F|mods\ironchests\ironchests-v3.3.1.21.zip
 2040DD7FFBA00112B1E535C06A7840C5|mods\ironchests\ironchests-v3.4.2.28.zip
@@ -319,6 +331,7 @@ F66183DA961EE9CA2AFDC0D1461C9C5F|mods\ironchests\ironchests-v3.3.1.21.zip
 067CD9369FC37258EF0F5260315CBD06|mods\ironchests\ironchests-v4.4.0.186.zip
 A49B5DF48EBF47B675FBA84A4E960309|mods\ironchests\ironchests-v4.5.1.199.zip
 A49B5DF48EBF47B675FBA84A4E960309|mods\ironchests\ironchests-v4.5.2.213.zip
+DAB20013E150CE3D18679B231DCA44F8|mods\ironchests\ironchests-v5.1.0.261.zip
 04FD9390C879511AE843BCCA88B1BD69|mods\lasermod\lasermod-v1.2.zip
 B5946098BFEDE8E7E0B4DA4AB8188B3A|mods\lectern\lectern-ssp-1.2.5.zip
 7C3AB0AFA474BC20F61B36B2C0BA7345|mods\legendarybeasts\legendarybeasts-v1.4.6.zip
@@ -334,6 +347,7 @@ DF9D488DA10962857B6B7048E6641F42|mods\macros\macros-0.9.3.r2_for_1.3.2.zip
 3AA3E36CE906C852506B0D96558829F7|mods\matmos\matmos-v20.zip
 55F89448171AB6A7637076944747D8A8|mods\matmos\matmos-v8.zip
 BC27027F55A70981BDF1D67D8FF56EA9|mods\mffs\mffs-v2.2.8.2.14.zip
+10DA7D1BE3CA8FE205DA86EEF2706E0C|mods\mffs\mffs-v2.2.8.3.6.zip
 19F7F3E32514221FD9204F0096EF214A|mods\mffs\mffs-v3.zip
 4D125FC1C732C08726F187400DE45865|mods\mffs\mffs-v5.zip
 7023644027C59DBD1724A15D7B8C78F4|mods\mffs\mffs-v6.zip
@@ -378,6 +392,7 @@ BBBE2802BF13330BF5FE665228F6A4A2|mods\minecolony\minecolony-v19yb.zip
 54A4DB9AB7795C5C304E23A4DE829C89|mods\minions\minions-v1.2.3.zip
 B95F389B5207DBAC614DF10E7C1077DE|mods\minions\minions-v1.2.5.zip
 4FBB217D2344A07970220C5C396F721B|mods\miscperipherals\miscperipherals-v2.3.zip
+AED91B372AB41A2C344108BA821EABD9|mods\miscperipherals\miscperipherals-v3.1b.zip
 F89B8EDB8B82D73500CC256F88BD5D48|mods\mobamputation\mobamputation-v1.4.6v1.zip
 9FF1A2ED3E88C42C29E0C85E6DADC41A|mods\mobspawncontrol\mobspawncontrol-v1.4.6.1.zip
 18EDC50772AD07E83999F674E843A8A3|mods\mocreatures\mocreatures-v4.5.1.zip
@@ -400,6 +415,7 @@ D6EFDCEDBA7588CE88A7AF2DC844B055|mods\nei\nei-v1.4.2.7.zip
 AB491B8A52D7AD87F0B9BEBCBF031116|mods\nei\nei-v1.4.3.4.zip
 7FA0F63A3019FD706464BAC5920F984F|mods\nei\nei-v1.4.4.0.zip
 1D6D01F6A1CDEE41B766A6E1C0769BA1|mods\nei\nei-v1.4.5.0.zip
+CDB6FF736395DD676117F74ED7C55EFE|mods\nei\nei-v1.4.7.0.zip
 01F7252919965EBFB77BDBCC657CA471|mods\nei-buildcraft\nei-buildcraft-v1.0.0.1.zip
 28EF7A6F3E4CACBC2E6999C8C7A390E3|mods\nei-buildcraft\nei-buildcraft-v1.2.0.8.zip
 FC48918320341C10C90512EEC69EDC5B|mods\nei-ic2\nei-ic2-burn-v1.0.zip
@@ -424,9 +440,11 @@ A238C234A5253199339D8D09F59F307B|mods\netherores\netherores-v1.2.1.zip
 B1C6F2363AED43AFBFA3BE999A2DAE62|mods\obsidiplates\obsidiplates-v1.2.0.3.zip
 7973226B93489FA88A5B897C270F59FB|mods\omnitools\omnitools-v2.2.3.zip
 2B9ED87891FFB23D80D218275206AFC3|mods\omnitools\omnitools-v2.2.5.zip
+EDB864C9288458F4E70FA790C3987A36|mods\omnitools\omnitools-v3.0.4.zip
 D02E4ECA7A21621DFD4DDB0C8AA99E55|mods\omniwrench\omniwrench-pr1.zip
 87CD3BF1ED8D32BD3F31899BA8E75E57|mods\parachute\parachute-v1.4.7.zip
 DFF93351C33E945C33E22D3F29CF7BAD|mods\petrogen\petrogen-v1.1.zip
+AABD44CF714B3F9EF4686CCD38183733|mods\petrogen\petrogen-v1.2.1.zip
 1C6B82C61FD4B8C69B4CEE9FD4EA3C06|mods\pfaeff\pfaeff-v1.1.zip
 EEA48E062CCF8CE01E9D64313017AB41|mods\pluginsforestry\ pluginsforestry-build28.zip
 67A83F2FA7AC6634DA780AD4A9D4B182|mods\portalgun\portalgun-v1.4.7v2.zip
@@ -457,6 +475,7 @@ E5D8A2CE35F1CF58930C5F30C44CB2E3|mods\rc\rc-v6.10.0.0.zip
 B3E61675BF85585DE3DFF37A9FFD8267|mods\rc\rc-v6.12.1.0.zip
 FC8DA7A028D2689E9082A22B7436713E|mods\rc\rc-v6.12.2.0.zip
 D67CE4CA565B8BA30FFF4655FBF86C48|mods\rc\rc-v6.13.1.0.zip
+B13309B2F9DFF9F6F9CB95FDECCF2875|mods\rc\rc-v6.17.0.0.zip
 D3865F3DC21C4DF3A1AAD95CAED27A34|mods\rc\rc-v6.7.0.0.zip
 9C15BC4275C0ED24CCD2CDE6463994EA|mods\rc\rc-v6.8.0.0.zip
 7C454347B6DFF2F18FBE565B32FDEBF9|mods\rc\rc-v6.9.0.0.zip
@@ -506,6 +525,7 @@ B90BF6630342A0BD428F787B1B6D4624|mods\stevescarts\stevescarts-v2.0.0.a37.zip
 E74442A3DD1F478120E6B6F9A8018B85|mods\stevescarts\stevescarts-v2.0.0.a40.zip
 C95C2B49D231F02FF00699BFA4D045A0|mods\stevescarts\stevescarts-v2.0.0.a41.zip
 FB36E5BA8A31567B37531BB410DE9854|mods\stevescarts\stevescarts-v2.0.0.a42.zip
+73285BD93E36944CAF94D4EA12A2CFE3|mods\stevescarts\stevescarts-v2.0.0.a61.zip
 1597D70D092033002D78BCB263B959A7|mods\thaumcraft\thaumcraft-v1.0.3.zip
 79A7BEB7A47518AF0F41ED958AE7D48C|mods\thaumcraft\thaumcraft-v1.1.zip
 7B2D01F4085FAF66B16D52D0B8B7F3F4|mods\thaumcraft\thaumcraft-v1.2.1.zip
@@ -523,7 +543,9 @@ FC1296CFABF455ED3365F2C2C8C1F8EB|mods\thaumcraft\thaumcraft-v2.1.0.zip
 BA85B9D841CCED6196F4AF1DF84B9E21|mods\thaumcraft\thaumcraft-v2.1.6c.zip
 57E41B3EDB6025959AB3D5D760BC41DD|mods\thaumcraft\thaumcraft-v2.1.6d.zip
 35B14BF7031B46E7D9EA261061D9877A|mods\thaumcraft\thaumcraft-v3.0.1c.zip
+FDCC3341285C00933F62438418C9E46F|mods\thaumcraft\thaumcraft-v3.0.3.zip
 F4C85C5AF400A9F50F981D3DE43AEAB2|mods\thaumicbees\thaumicbees-v1.1.702-67.zip
+1906C473C67B702E238AE2B0DD181E79|mods\thaumicbees\thaumicbees-v1.4.3a.zip
 5822DB3D248E88E97ECF6743B36FDB88|mods\thermalexpansion\thermalexpansion-v1.0.3.zip
 A8B44B7015BD5A62BC76BD48A9F9A8DB|mods\thermalexpansion\thermalexpansion-v1.0.4.1.zip
 28D6F1641E8D76B09F34436BA381FFD6|mods\thermalexpansion\thermalexpansion-v1.0.4.2.zip
@@ -538,6 +560,7 @@ AC9F2947E69E9B5A570760CD2DB1E480|mods\thermalexpansion\thermalexpansion-v2.0.2.z
 C48E9194A915A78F8948A1A968D2234D|mods\thermalexpansion\thermalexpansion-v2.1.4.zip
 476165BC50030445E507A5A2F96D4994|mods\thermalexpansion\thermalexpansion-v2.1.5.zip
 F40806B544C6B40F4EEDCC9B0993BA30|mods\thermalexpansion\thermalexpansion-v2.1.6.zip
+8CEFFF85177DDB467D90D19AEAF965D8|mods\thermalexpansion\thermalexpansion-v2.2.2.2.zip
 9197C06153D7A59A350DB8DD683DDB2B|mods\tinkers-construct\tinkers-construct-v1.0.7.zip
 EF5DF8BBAE85E6084E23CB9527FA646F|mods\tok\tok-v1.3.0.2.zip
 DD7A9BA0B782D145909E099DB54C7EB3|mods\tok\tok-v1.3.0.3.zip
@@ -672,16 +695,20 @@ CD7CBE08E1B6A2A2733736C9588834BF|mods\worldeditcui\worldeditcui-v1.2_mc1.2.4.zip
 2F5392204C072D336DADBAD39217D951|mods\wrcbe\wrcbe-v1.2.2.3.zip
 E4B13C3E35FA6DBBB590F868D771A581|mods\wrcbe\wrcbe-v1.3.1.1.zip
 A1B934D650D1893622180062B805C4D2|mods\wrcbe\wrcbe-v1.3.2.4.zip
+676D5220DE247C5AB21747695120F824|mods\wrcbe\wrcbe-v1.3.2.8.zip
 36C8A8FB34A0CF5D54F36C70548AC2AD|mods\wrcbe\wrcbe-v1.3.2.zip
 2D7F053DEA33FB87B608DF1FA836DAB9|mods\wrcbe-addons\wrcbe-addons-v1.3.1.2.zip
 F8B7B3091D0CECFCA1021A3BFDFEC81D|mods\wrcbe-addons\wrcbe-addons-v1.3.2.4.zip
+A7B5FC9E2B2D5FB02E3E858E76662776|mods\wrcbe-addons\wrcbe-addons-v1.3.2.8.zip
 6D96EFB53B5333BA0AF646015CA3486E|mods\wrcbe-addons\wrcbe-addons-v1.3.2.zip
 82389C9A5DBFDBE64C07BED0226F8888|mods\wrcbe-redpower\wrcbe-redpower-v1.3.2.4.zip
+FF46FDE8AA998F9B447CD0E44B89C10F|mods\wrcbe-redpower\wrcbe-redpower-v1.3.2.8.zip
 C4B15347790899A297F5D72009673746|mods\wrcbe-redpower\wrcbe-redpower-v1.3.2.zip
 08B3031C3731CA6BE9C5FFDE87EE2897|mods\xpbook\xpbook-ssp-1.2.5.zip
 C0A6BEEBD44478A633BD21DEABF61299|mods\xpbook\xpbook-v4.zip
 7F4217197CCEA67D053251411D1EE711|mods\xpbook\xpbook-v5.zip
 64EEB395A79B2407FD25C46AF8C23FB4|mods\xreliquary\xreliquary-v1.05b.zip
+761EFF5FC558681583DCA2CF0256BA43|mods\xycraft\xycraft-v0.10.18.zip
 55D0AB5A13A5A063274981B571FF37D1|mods\xycraft\xycraft-v0.9.44.zip
 2D8CE20468D98C05A559AF82A0EC5023|mods\zeppelin\zeppelin-v1.1.0.0.25.zip
 B044BBD6D4F97B74E7C5DE5A37F30077|mods\zeppelin\zeppelin-v1.1.0.0.28.zip
