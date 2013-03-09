@@ -997,6 +997,7 @@ mods:
         name: "Not Enough Items"
         installtype: "zip"
         versions:
+            v1.0.4.1-CUSTOM:
             v1.0.4.1:
             v1.0.3.6:
             v1.0.3.5:

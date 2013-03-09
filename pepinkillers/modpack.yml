@@ -38,8 +38,8 @@ builds:
             mffs: v2.2.8.3.6
             codechickencore: v0.7.3
             nei: v1.4.7.0
-            nei-plugins: v1.0.4.1
-            nei-redpower: v1.4.3
+            nei-plugins: v1.0.4.1-CUSTOM
+            #nei-redpower: v1.4.3
             powercrystalscore: v1.0.1
             powerconverters: v1.4.6
             rc: v6.17.0.0
