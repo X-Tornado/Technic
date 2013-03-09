@@ -95,6 +95,7 @@ mods:
         modtype: "content"
         link: ""
         versions:
+            pepin-v0.0.2:
             pepin-v0.0.1:
     aurorarubealis:
         name: "Jar modification Mods"

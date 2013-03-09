@@ -73,7 +73,7 @@ CB071E8806C2B1711B54699236398BE3|modfixes\minecraft-1.2.4\net\minecraft\client\M
 11DD7268CA9586D03FCD7E01FC2C4A88|modfixes\minecraft-1.2.4\net\minecraft\client\MinecraftApplet.class
 4164BD4C1FB0048AEBDEF670E9C5EDF7|modfixes\minecraft-1.2.5\net\minecraft\client\Minecraft.class
 11DD7268CA9586D03FCD7E01FC2C4A88|modfixes\minecraft-1.2.5\net\minecraft\client\MinecraftApplet.class
-A0C52BD5702D244569B5C924175990D1|modlibrary.yml
+263D833130C9905F229C8C81E097B37F|modlibrary.yml
 E5A89002221B24A8A83C6AAF31061A9D|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 EF236C5E65D3E67278333808C2FDD089|mods\adventureitems\adventureitems-v1.2.3.zip
@@ -211,6 +211,7 @@ ACA3B3A64052F9E62992194140C6BEE5|mods\computercraft\computercraft-v1.33.zip
 46E0972DF52D6B74978061B5B6E90F4B|mods\computercraft\computercraft-v1.481.zip
 7CFC8342811B80B89EB8F683FBBEF735|mods\computercraft\computercraft-v1.5.zip
 150F51B2C1F5F8614AA64985603DF716|mods\configs\configs-pepin-v0.0.1.zip
+3D0377E59E609031501B21613482E2D4|mods\configs\configs-pepin-v0.0.2.zip
 EC6CDF2D4FDE191EFA4B987F71E7668C|mods\craftguide\craftguide-v1.3.0.zip
 1CEBC5CA4802895D69AFC69FFEF6EB9C|mods\craftguide\craftguide-v1.3.1.zip
 867A7568418AD3A6E325A99D88BEA906|mods\craftguide\craftguide-v1.4.1.zip
@@ -826,7 +827,7 @@ F640DA15AC0416E5BB4281AE2AF99072|Patches\Minecraft\minecraft_b1.8.1-1.0.0.patch
 87D5C760386C1AFF34F40299A47A222A|Patches\Minecraft\minecraft_b1.8.1-b1.7.2.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
-511B7C22F50DA5CD008EF4F6D05999E3|pepinkillers\modpack.yml
+A607820EFF910C791A62C0EA712D63B3|pepinkillers\modpack.yml
 E9BE36DAF4878F4E3F17ED0D2984BF46|pepinkillers\resources\background.jpg
 1FA7A59E85AD2D9332F6336019B23507|pepinkillers\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|pepinkillers\resources\icon.icns
