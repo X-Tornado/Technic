@@ -1,11 +1,11 @@
 #PeppinKillers Normal
 launcher:
 current:
-recommended: 0.3.0
-latest: 0.3.0
+recommended: 0.3.1
+latest: 0.3.1
 lib-1: 
 builds:
-    0.3.0:
+    0.3.1:
         libraries:
         minecraft: 1.4.7
         forge: 534
@@ -13,7 +13,7 @@ builds:
             xreliquary: v1.05b
             balkonsweaponmod: v1.10.3
             usefulfood: v1.3.1
-            trialmix: v1.4.7v3.zip
+            trialmix: v1.4.7v3
             secretrooms: v4.5.0.190
             pluginsforestry: build28
             myscraft: v0.10.0.00
@@ -86,14 +86,14 @@ builds:
             flansmod-simpleparts: v1.1.0
 #            custommobspawner: v1.11
 #            mocreatures: v4.5.1
-            mutantcreatures: v1.2.1
-            mobspawncontrol: v1.4.6.1
+#            mutantcreatures: v1.2.1
+#            mobspawncontrol: v1.4.6.1
 #            alienvspredator: v2.9.7
             aurorarubealis: v101
 #            undergroundbiomes: v0.3.2b
             tinkers-construct: v1.0.7
             forgeessentials: v1.1.0.248
-#            animalbikes: v1.4.6
+            animalbikes: v1.4.6
             basepepin: pepin_base-v0.0.1
             basemods: pepin-v0.0.1
             configs: pepin-v0.0.1
