@@ -19,10 +19,10 @@ builds:
             basepepin: pepin_base-v0.0.1
             # battletowers: v1.4.6
             bibliocraft: v1.1.0
-            # buildcraft-additionalpipes: v2.1.3.u40
-            # buildcraft-logisticspipes: v0.7.0.83
-            # buildcraft-objects: v0.9.6.73
-            # buildcraft-valvepipeAM: v1.3.2
+            # buildcraft_additionalpipes: v2.1.3.u40
+            # buildcraft_logisticspipes: v0.7.0.83
+            # buildcraft_objects: v0.9.6.73
+            # buildcraft_valvepipeAM: v1.3.2
             buildcraft: v3.4.3
             chargepads: v2.4.1.66
             chickenchunks: v1.3.1.0
@@ -38,8 +38,8 @@ builds:
             extrabees: v1.5.0.6
             extrabiomesxl: v3.10.0
             factorization: v0.7.10
-            # flansmod-simpleparts: v1.1.0
-            # flansmod-ww2: v1.1.0
+            # flansmod_simpleparts: v1.1.0
+            # flansmod_ww2: v1.1.0
             # flansmod: v2.1.1
             flatbedrock: v1.0.3
             forestry: v2.0.0.11
@@ -48,9 +48,9 @@ builds:
             gravitygun: v1.4.7v2
             gregtech: v2.81a
             # guiapi: v0.15.2
-            ic2-advancedmachines: v4.7b
-            ic2-advancedsolarpanels: v3.3.3
-            ic2-nuclearcontrol: v1.4.5
+            ic2_advancedmachines: v4.7b
+            ic2_advancedsolarpanels: v3.3.3
+            ic2_nuclearcontrol: v1.4.5
             ic2: v1.115.231-lf
             # idresolver: v1.4.6.1
             immbiscore: v52.4.4
@@ -68,9 +68,9 @@ builds:
             mpowersuits: v3.0.178
             # mutantcreatures: v1.2.1
             mystcraft: v0.10.0.00
-            nei-plugins: v1.0.4.5
-            nei-redpower: v1.4.6
-            # nei-thermalexpansion: v2.1.6
+            nei_plugins: v1.0.4.5
+            nei_redpower: v1.4.6
+            # nei_thermalexpansion: v2.1.6
             # nei: v1.4.7.0
             netherores: v2.0.6
             obsidiplates: v1.2.0.3
@@ -91,7 +91,7 @@ builds:
             thaumcraft: v3.0.3
             thaumicbees: v1.4.3a 
             thermalexpansion: v2.2.2.2
-            # tinkers-construct: v1.0.7
+            # tinkers_construct: v1.0.7
             # traincraft: v3.1.13_010
             # trialmix: v1.4.7v3
             # tropicraft: v1.4.6
@@ -100,8 +100,8 @@ builds:
             # undergroundbiomes: v0.3.2b
             # usefulfood: v1.3.1
             zgravisuite: v1.7
-            wrcbe-addons: v1.3.2.8
-            wrcbe-redpower: v1.3.2.8
+            wrcbe_addons: v1.3.2.8
+            wrcbe_redpower: v1.3.2.8
             wrcbe: v1.3.2.8
             xreliquary: v1.05d
             xycraft: v0.10.18
