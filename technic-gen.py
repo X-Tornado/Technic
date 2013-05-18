@@ -37,11 +37,11 @@ class ModLibrary(object):
         self.modlist=modlist
     def generate(self):
         f=open("modlibrary.yml","w")
-        towrite="\tmods:\n"
+        towrite="mods:\n"
         for x in sorted(self.modlist.mods.keys()):
-            towrite+="\t\t"+x+":\n\t\t\tname: \"\"\n\t\t\tdescription: \"\"\n\t\t\tinstalltype: \"zip\"\n\t\t\tmodtype: \"content\"\n\t\t\tlink: \"\"\n\t\t\tversions:\n"
+            towrite+="\t"+x+":\n\t\tname: \"\"\n\t\tdescription: \"\"\n\t\tinstalltype: \"zip\"\n\t\tmodtype: \"content\"\n\t\tlink: \"\"\n\t\tversions:\n"
             for z in self.modlist.mods[x]:
-                towrite +="\t\t\t\t"+z+":\n"
+                towrite +="\t\t\t"+z+":\n"
             towrite+="\n"
         f.write(towrite)
         f.close()
