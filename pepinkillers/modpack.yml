@@ -27,7 +27,7 @@ builds:
             chargepads: v2.4.1.66
             chickenchunks: v1.3.1.0
             # chococraft: v2.5.3
-            # codechickencore: v0.7.3
+            codechickencore: v0.7.3
             cofhcore: v1.4.7.3
             computercraft: v1.5
             configs: pepin-v0.0.2
