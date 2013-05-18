@@ -1,11 +1,11 @@
 #PeppinKillers Normal
 launcher:
 current:
-recommended: 0.3.6
-latest: 0.3.6
+recommended: 0.3.7
+latest: 0.3.7
 lib-1: 
 builds:
-    0.3.6:
+    0.3.7:
         libraries:
         minecraft: 1.4.7
         forge: 534
