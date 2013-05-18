@@ -71,7 +71,7 @@ builds:
             nei_plugins: v1.0.4.5
             nei_redpower: v1.4.6
             # nei_thermalexpansion: v2.1.6
-            # nei: v1.4.7.0
+            nei: v1.4.7.0
             netherores: v2.0.6
             obsidiplates: v1.2.0.3
             omnitools: v3.0.4
