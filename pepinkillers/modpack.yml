@@ -1,11 +1,11 @@
 #PeppinKillers Normal
 launcher:
 current:
-recommended: 0.3.2
-latest: 0.3.2
+recommended: 0.3.3
+latest: 0.3.3
 lib-1: 
 builds:
-    0.3.2:
+    0.3.3:
         libraries:
         minecraft: 1.4.7
         forge: 534
@@ -80,7 +80,7 @@ builds:
             # pluginsforestry: build28
             portalgun: v1.4.7v5
             powerconverters: v1.4.6
-            # powercrystalscore: v1.0.1
+            powercrystalscore: v1.0.1
             rc: v6.17.0.0
             redpower: v2.0.6
             # reisminimap: v3.2_06
