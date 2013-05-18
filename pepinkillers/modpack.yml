@@ -1,11 +1,11 @@
 #PeppinKillers Normal
 launcher:
 current:
-recommended: 0.3.3
-latest: 0.3.3
+recommended: 0.3.4
+latest: 0.3.4
 lib-1: 
 builds:
-    0.3.3:
+    0.3.4:
         libraries:
         minecraft: 1.4.7
         forge: 534
@@ -53,7 +53,7 @@ builds:
             ic2_nuclearcontrol: v1.4.5
             ic2: v1.115.231-lf
             # idresolver: v1.4.6.1
-            immbiscore: v52.4.4
+            immibiscore: v52.4.4
             # invasion: v0.11.5
             inventorytweaks: v1.50
             ironchests: v5.0.1.246
