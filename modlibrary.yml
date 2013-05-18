@@ -822,6 +822,7 @@ mods:
             v1.4.3:
             v1.4.4b:
             v1.4.5:
+            v1.4.6:
 
     ic2_transformers:
         name: ""
@@ -1352,6 +1353,7 @@ mods:
             v1.3.1_01:
             v1.3.4:
             v1.4.6:
+            v1.4.6R2.2.2:
 
     powercrystalscore:
         name: ""

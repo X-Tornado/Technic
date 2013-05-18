@@ -1,11 +1,11 @@
 #PeppinKillers Normal
 launcher:
 current:
-recommended: 0.3.7
-latest: 0.3.7
+recommended: 0.3.8
+latest: 0.3.8
 lib-1: 
 builds:
-    0.3.7:
+    0.3.8:
         libraries:
         minecraft: 1.4.7
         forge: 534
@@ -50,7 +50,7 @@ builds:
             # guiapi: v0.15.2
             ic2_advancedmachines: v4.7b
             ic2_advancedsolarpanels: v3.3.3
-            ic2_nuclearcontrol: v1.4.5
+            ic2_nuclearcontrol: v1.4.6
             ic2: v1.115.231-lf
             # idresolver: v1.4.6.1
             immibiscore: v52.4.4
@@ -60,7 +60,7 @@ builds:
             # legendarybeasts: v1.4.6
             mffs: v2.2.8.3.6
             mfr: v2.2.0
-            # miscperipherals: v3.1b
+            miscperipherals: v3.1b
             # mobamputation: v1.4.6v1
             # mobspawncontrol: v1.4.6.1
             # mocreatures: v4.5.1
@@ -79,7 +79,7 @@ builds:
             petrogen: v1.2.1
             # pluginsforestry: build28
             portalgun: v1.4.7v5
-            powerconverters: v1.4.6
+            powerconverters: v1.4.6R2.2.2
             powercrystalscore: v1.0.1
             rc: v6.17.0.0
             redpower: v2.0.6

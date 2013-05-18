@@ -73,7 +73,7 @@ CB071E8806C2B1711B54699236398BE3|modfixes\minecraft-1.2.4\net\minecraft\client\M
 11DD7268CA9586D03FCD7E01FC2C4A88|modfixes\minecraft-1.2.4\net\minecraft\client\MinecraftApplet.class
 4164BD4C1FB0048AEBDEF670E9C5EDF7|modfixes\minecraft-1.2.5\net\minecraft\client\Minecraft.class
 11DD7268CA9586D03FCD7E01FC2C4A88|modfixes\minecraft-1.2.5\net\minecraft\client\MinecraftApplet.class
-AE3973437EE9A0DBF7BE09A00D67FE16|modlibrary.yml
+5DD4DA33D7C057DA99536534024CFEF1|modlibrary.yml
 263D833130C9905F229C8C81E097B37F|modlibrary.yml.bak
 E5A89002221B24A8A83C6AAF31061A9D|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
@@ -363,6 +363,7 @@ B8136DA8A35D2D42071C2CE7E76E23A4|mods\ic2_nuclearcontrol\ic2_nuclearcontrol-v1.1
 26533513AF260013F083C1F7F27D1A02|mods\ic2_nuclearcontrol\ic2_nuclearcontrol-v1.4.3.zip
 620D808241DBED43712D4D375F9B7BAB|mods\ic2_nuclearcontrol\ic2_nuclearcontrol-v1.4.4b.zip
 B86D983E412B3B0BB9E6E7B7ADDD1584|mods\ic2_nuclearcontrol\ic2_nuclearcontrol-v1.4.5.zip
+0A38C1213E65668BDF41AF7D6F9F5FDA|mods\ic2_nuclearcontrol\ic2_nuclearcontrol-v1.4.6.zip
 EF7396751B427D84CB741438F251AA8F|mods\ic2_transformers\ic2_transformers-v1.2.zip
 CDD6916B2A09EF3B7169EDF4BDD0A546|mods\ic2_transformers\ic2_transformers-v1.3.zip
 DADC960190BCFC97EB69E9C3AAB9F40A|mods\ic2_transformers\ic2_transformers-v1.6.zip
@@ -421,7 +422,7 @@ DF9D488DA10962857B6B7048E6641F42|mods\macros\macros-0.9.3.r2_for_1.3.2.zip
 3AA3E36CE906C852506B0D96558829F7|mods\matmos\matmos-v20.zip
 55F89448171AB6A7637076944747D8A8|mods\matmos\matmos-v8.zip
 BC27027F55A70981BDF1D67D8FF56EA9|mods\mffs\mffs-v2.2.8.2.14.zip
-10DA7D1BE3CA8FE205DA86EEF2706E0C|mods\mffs\mffs-v2.2.8.3.6.zip
+A5DA84DF693EE1FDD03B5E5A6E42A5E1|mods\mffs\mffs-v2.2.8.3.6.zip
 19F7F3E32514221FD9204F0096EF214A|mods\mffs\mffs-v3.zip
 4D125FC1C732C08726F187400DE45865|mods\mffs\mffs-v5.zip
 7023644027C59DBD1724A15D7B8C78F4|mods\mffs\mffs-v6.zip
@@ -476,7 +477,7 @@ F89B8EDB8B82D73500CC256F88BD5D48|mods\mobamputation\mobamputation-v1.4.6v1.zip
 AF187F66C04C4F1FAE1492704706C9CB|mods\mpowersuits\mpowersuits-v2.0.45.zip
 51D8F0BCD6634F810762E3FBD80A48F0|mods\mpowersuits\mpowersuits-v3.0.178.zip
 E3BDE680FD10B09A058ACB8A48DB33ED|mods\mutantcreatures\mutantcreatures-v1.2.1.zip
-2D4EA7233CF9241C92E398EE38FBC644|mods\mystcraft\mystcraft-v0.10.0.00.zip
+ECF6AEFF38DE7A99F552D3F79FF14CF8|mods\mystcraft\mystcraft-v0.10.0.00.zip
 77A7D36C2760081F748B8BD63190F6AB|mods\mystcraft\mystcraft-v0.9.4.00.zip
 05027E30145F1FAAE3E4679544AE6AEA|mods\mystcraft\mystcraft-v0.9.4.05.zip
 3348CAE9C6BE84A1D729F703B604D7A1|mods\mystcraft\mystcraft-v0.9.5.00.zip
@@ -534,6 +535,7 @@ EEA48E062CCF8CE01E9D64313017AB41|mods\pluginsforestry\pluginsforestry-build28.zi
 2C1282E0E6A1505EECC070F8BFF1F904|mods\powerconverters\powerconverters-v1.3.1_01.zip
 DDDAEFFDBCC37CF8355FC341E2760E6A|mods\powerconverters\powerconverters-v1.3.4.zip
 0FD7F8528DA6CBC91992DF84E4BB4C9A|mods\powerconverters\powerconverters-v1.4.6.zip
+58CA0F55F45CFD33A7F4199E5D0BE66F|mods\powerconverters\powerconverters-v1.4.6R2.2.2.zip
 CDD83455F1B55D0EC1DC89996BE619DE|mods\powercrystalscore\powercrystalscore-v1.0.0.zip
 95B347E31A933222D0BB219FF66DF3BE|mods\powercrystalscore\powercrystalscore-v1.0.1.zip
 B6637143AC02D02481482094A1C8D483|mods\rc\rc-v2.1.1.zip
@@ -852,7 +854,7 @@ F640DA15AC0416E5BB4281AE2AF99072|Patches\Minecraft\minecraft_b1.8.1-1.0.0.patch
 87D5C760386C1AFF34F40299A47A222A|Patches\Minecraft\minecraft_b1.8.1-b1.7.2.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
-63C6A05B38930D393034BCADC42CA680|pepinkillers\modpack.yml
+C228CB5C73BAEF9B0697B56331A252B7|pepinkillers\modpack.yml
 E9BE36DAF4878F4E3F17ED0D2984BF46|pepinkillers\resources\background.jpg
 1FA7A59E85AD2D9332F6336019B23507|pepinkillers\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|pepinkillers\resources\icon.icns
