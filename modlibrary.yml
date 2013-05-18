@@ -1,1774 +1,1835 @@
-mods:
-    basemods:
-        name: "Jar modification Mods"
-        description: "Rest of Mods not yet seperated out"
-        installtype: "zip"
-        modtype: "content"
-        link: ""
-        versions:
-            pepin-v0.0.1:
-            pepin_optifine-v0.0.1:
-            pepin_optifine_shaders-v0.0.1:
-            hackslashmine-v0.6.0:
-            hackslashmine-v0.5.3:
-            hackslashmine-v0.5.2:
-            hackslashmine-v0.4:
-            spotlight-forge-v1.0.0:
-            vanilla-v1.4.5:
-            vanilla-v1.4.4:
-            vanilla-v1.3.2:
-            vanilla-v1.3.1:
-            vanilla-v1.2.5:
-            vanilla-v1.2.3:
-            yogbox-v1.2.5:
-            yogbox-v1.2.1:
-            yogbox-v1.2.0:
-            yogbox-v1.1.6:
-            yogbox-v1.1.5:
-            yogbox-v1.1.2:
-            yogbox-v1.1.1:
-            yogbox-v1.1.0:
-            vanilla-v1.1:
-            technic-no-optifine:
-            technic-v7.5.2:
-            technic-v7.5.0:
-            technic-v7.3.7:
-            technic-v7.3.5:
-            technic-v7.3.0:
-            technic-v7.2.6:
-            technic-v7.2.1:
-            technic-v7.2.0:
-            technic-v7.1.0:
-            technic-v7.0.1:
-            technic-v7.0.0:
-            technic-v6.1.1:
-            technic-v6.1.0:
-            technic-v6.0.7:
-            technic-v6.0.6:
-            technic-v6.0.5:
-            technic-v6.0.3:
-            technic-v6.0.2:
-            technic-v6.0.1:
-            technic-v6.0.0:
-            tekkit-v3.1.3:
-            tekkit-v3.1.2:
-            tekkit-v3.1.1:
-            tekkit-v3.1.0:
-            tekkit-v3.0.5:
-            tekkit-v3.0.3:
-            tekkit-v3.0.2:
-            tekkit-v3.0.1:
-            tekkit-v3.0.0-smooth:
-            tekkit-v3.0.0:
-            tekkit-v2.0:
-            tekkitlite-v0.5.2:
-            tekkitlite-v0.5.1:
-            tekkitlite-v0.5.0:
-            voltz-v1.0.7:
-            voltz-v1.0.6:
-            voltz-v1.0.0:
-            voltz-v0.0.1:
-            v1.3.0:
-            v1.2.1y:
-            v1.2.0-S:
-            v1.2.0:
-            v5.0.5:
-            tekkit-v2.0.0:
-            voxelmodpack-v9.1.2:
-            voxelmodpack-v9.0.0:
-            voxelmodpack-v8.4.0:
-            voxelmodpack-v8.3.0:
-            voxelmodpack-v8.2.0:
-            voxelmodpack-v8.1.0:
-    basepepin:
-        name: "Jar modification Mods"
-        description: "Rest of Mods not yet seperated out"
-        installtype: "zip"
-        modtype: "content"
-        link: ""
-        versions:
-            pepin_base-v0.0.1:
-    configs:
-        name: "Jar modification Mods"
-        description: "Rest of Mods not yet seperated out"
-        installtype: "zip"
-        modtype: "content"
-        link: ""
-        versions:
-            pepin-v0.0.2:
-            pepin-v0.0.1:
-    aurorarubealis:
-        name: "Jar modification Mods"
-        description: "Rest of Mods not yet seperated out"
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/1625503-147-aurora-rubealis-v101-auroras-in-minecraft/"
-        versions:
-            v101:
-    tropicraft:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.4.6:
-    flansmod-ww2:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.1.0:
-    thaumicbees:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.4.3a:
-            v1.1.702-67:
-    undergroundbiomes:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v0.3.2b:
-    tinkers-construct:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.0.7:
-    mobamputation:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.4.6v1:
-    legendarybeasts:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.4.6:
-    flansmod-simpleparts:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.1.0:
-    flansmod:
-        name: "GuiApi"
-        installtype: "zip"
-        versions:
-            v2.1.1:
-    guiapi:
-        name: "GuiApi"
-        installtype: "zip"
-        versions:
-            v0.15.2:
-    idresolver:
-        name: "GuiApi"
-        installtype: "zip"
-        versions:
-            v1.4.6.1:
-    parachute:
-        name: "Parachute"
-        installtype: "zip"
-        versions:
-            v1.4.7:
-    ic2-advancedsolarpanels:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v3.3.2:
-    chargepads:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v2.3.0.58:
-    extrabees:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.5.0.4:
-            v1.4.9.12-pre:
-    extrabiomesxl:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v3.10.0:
-            v1.4.7-3.8.0:
-    miscperipherals:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v3.1b:
-            v2.3:
-    obsidiplates:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.2.0.3:
-    petrogen:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.2.1:
-            v1.1:
-    portalgun:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.4.7v2:
-    soulshards:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.26:
-    traincraft:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v3.1.13_010:
-    xycraft:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v0.10.18:
-            v0.9.44:
-    zgravisuite:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.6:
-    gregtech:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v2.80c:
-            v2.75b:
-    rp2brushwool:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.4.6:
-    adventureitems:
-        name: "Adventure Items"
-        installtype: "zip"
-        versions:
-            v1.1:
-            v1.2.3:
-            v1.2.5:
-    airships:
-        name: "Airships"
-        installtype: "zip"
-        versions:
-            v1.2.3:
-            v1.2.5:
-    armorstand:
-        name: "Armor stand mod"
-        installtype: "zip"
-        versions:
-            v1.1:
-            v1.2.3:
-            v1.2.5:
-    balkonsweaponmod:
-        name: "Balkons Weapon Mod"
-        author: "BalkondeurAlpha"
-        description: "Throw a spear in a zombie's head! Cut a skeleton in half with your brand new halberd! Shoot some slimes in pieces with an old musket! And more!"
-        link: "http://www.minecraftforum.net/topic/211517-146forge-balkons-weaponmod-v110/"
-        installtype: "zip"
-        versions:
-            v1.10.3:
-            v1.10-1.4.6:
-            v1.10:
-            v8.6:
-            v8.5:
-            v8.4:
-            v8.3:
-            v8.2:
-            v8.1:
-    battletowers:
-        installtype: "zip"
-        versions:
-            v1.1:
-            v1.2.3:
-            v1.2.5:
-            v1.4.6:
-    invasion:
-        installtype: "zip"
-        versions:
-            v0.11.5:
-    betterdungeons:
-        installtype: "zip"
-        versions:
-            v0.932.1:
-            v0.931:
-            v0.925:
-            v0.923:
-            v0.922:
-            v0.921:
-            v0.92:
-            v0.91:
-    buildcraft:
-        name: "BuildCraft"
-        author: "SpaceToad/Krapht/SirSengir"
-        description: "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!"
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.mod-buildcraft.com/"
-        versions:
-            v3.4.3:
-            v3.4.0:
-            v3.3.0:
-            v3.2.2:
-            v3.2.0:
-            v3.1.8:
-            v3.1.5:
-            v3.1.4:
-            v3.1.4pre:
-            v3.1.3:
-                dependencies:
-                    baseforge: 1.3.1
-            v3.1.2:
-                dependencies:
-                    baseforge: 1.2.4
-            v2.2.14:
-            v2.2.13:
-            v2.2.12:
-                dependencies:
-                    baseforge: 1.2.4
-            v2.2.11:
-                dependencies:
-                    baseforge: 1.2.4
-            v2.2.7:
-                md5: "03fd974285584b306af080a5e5e6edc7"
-                dependencies:
-                    baseforge: 1.2.3
-    buildcraft-additionalpipes:
-        name: "Buildcraft Additional Pipes"
-        installtype: "zip"
-        versions:
-            v2.1.3.u40:
-            v2.1.3.u38:
-            v2.1.3.u36:
-            v2.1.3.u35:
-            v2.1.3.u28.b2:
-            v3.1.0:
-            v3.0.10:
-            v3.0.1:
-            v32.3:
-            v34:
-            v2.1.3:
-    buildcraft-additionalpower:
-        installtype: "zip"
-        versions:
-            v0.1.1:
-    buildcraft-logisticspipes:
-        name: "Buildcraft Logistic Pipes"
-        installtype: "zip"
-        versions:
-            v0.7.0.83:
-            v0.7.0.75:
-            v0.6.9.51:
-            v0.6.9.32:
-            v0.6.1.pre19:
-            v0.7.0.pre2:
-            v0.6.0.pre2:
-            v0.6.0.pre1:
-            v0.2.5b:
-            v0.2.4a:
-            v0.2.2a:
-            v0.2.1a:
-            v0.2.0b:
-            v0.1.0a:
-            v0.1.2a:
-            v0.1.3a:
-            v0.1.8a:
-    buildcraft-objects:
-        name: "BuildCraft Objects"
-        installtype: "zip"
-        versions:
-            v0.9.6.73:
-            v0.9.4.65:
-            v100:
-            v85:
-            v84:
-            v56:
-                dependencies:
-                    buildcraft: v2.2.7
-            v63:
-    caruins:
-        name: "CARuins"
-        installtype: "zip"
-        versions:
-            v2.3.0:
-    ccsensors:
-        name: "ccSensors"
-        author: "yoskaz01"
-        description: "ccSensors collects information from machines and blocks from around the minecraft world. Those readings can be viewed on the sensor terminal or (and even better) be used in Computercraft lua programs for anything..."
-        link: "http://www.computercraft.info/forums2/index.php?/topic/126-mc-125-cc-133-ccsensors-smpssp/"
-        installtype: "zip"
-        versions:
-            v017pr2:
-            v017pr1:
-    chargingbench:
-        name: "IC2 Charging Bench"
-        author: "Drashian"
-        description: "A bench with multiple charging slots so you can charge all of your items at once.  Apply redstone power to the bench to reverse the way it functions."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=929"
-        versions:
-            v1.95b:
-            v1.81-1:
-            v1.71-1:
-            v1.70-1:
-            v1.64-1:
-            v1.43:
-                dependencies:
-                    ic2: v1.43
-    chickenchunks:
-        name: "ChickenChunks"
-        installtype: "zip"
-        versions:
-            v1.3.1.0:
-            v1.2.1.1:
-            v1.2.1.0:
-    codechickencore:
-        name: "CodeChickenCore"
-        author: "chicken_bones"
-        description: "Required by Chicken Bones' Mods"
-        link: "http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/"
-        installtype: "zip"
-        versions:
-            v0.7.3:
-            v0.7.0.2:
-            v0.7.0.1:
-            v0.7.0.0:
-            v0.6.16:
-            v0.6.15:
-            v0.6.14:
-            v0.6.10:
-            v0.6.6.1:
-            v0.5.5:
-            v0.5.3:
-            v0.5.2:
-            v0.4.2:
-            v0.4.4:
-            v0.5.0:
-    computercraft:
-        name: "ComputerCraft"
-        author: "dan200"
-        description: "Add's Lua based computers to the game"
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.computercraft.info/"
-        versions:
-            v1.5:
-            v1.481:
-            v1.47:
-            v1.46:
-            v1.41:
-            v1.4:
-            v1.33:
-            v1.31:
-            v1.3:
-            v1.21:
-            v1.2:
-    craftguide:
-        name: "CraftGuide"
-        description: "Quick access to a list of every crafting recipe in the game!"
-        installtype: "zip"
-        versions:
-            v1.4.4:
-            v1.4.1:
-                dependencies:
-                    minecraft: 1.1
-            v1.4.2:
-            v1.4.3:
-    craftingtableii:
-        name: "Crafting Table II"
-        description: "Inspired by Terraria crafting, Crafting Table II displays everything you can currently craft with the items in your inventory. How much of each item the recipe uses is displayed on the left as well as a description of that item, click on the item and the Crafting Table II will automatically craft it for you without you ever having to remember recipes. As you add and remove items from your inventory the list of available items updates. Works with any recipe, including mods."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/856538-100-crafting-table-ii-v15-171211/"
-        optional: true
-        versions:
-            v1.5:
-            v1.6.2:
-            v1.6.2-1.2.3:
-    craftingtableiii:
-        name: "Crafting Table III"
-        description: "Inspired by Terraria crafting, Crafting Table III displays everything you can currently craft with the items in your inventory. How much of each item the recipe uses is displayed on the left as well as a description of that item, click on the item and the Crafting Table III will automatically craft it for you without you ever having to remember recipes. As you add and remove items from your inventory the list of available items updates. Works with any recipe, including mods."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/1189975-b18mc125-craftingtableiii-bug-fixs-more-mod-support/"
-        optional: true
-        versions:
-            v1.8:
-    crystalwing:
-        name: "Crystal Wing"
-        installtype: "zip"
-        versions:
-            v1.2.5.a:
-    mutantcreatures:
-        name: "Crystal Wing"
-        installtype: "zip"
-        versions:
-            v1.2.1:
-    custommobspawner:
-        name: "Custom Mob Spawner"
-        installtype: "zip"
-        versions:
-            v1.11:
-    mobspawncontrol:
-        name: "Custom Mob Spawner"
-        installtype: "zip"
-        versions:
-            v1.4.6.1:
-    alienvspredator:
-        name: "Custom Mob Spawner"
-        installtype: "zip"
-        versions:
-            v2.9.7:
-    dimanchor:
-        name: "Dimensional Anchors"
-        author: "immibis"
-        description: "This is a block that loads chunks. There is a limit on the number of chunks each non-op player can load in SMP, and each chunk loader can load an adjustable area."
-        link: "http://www.minecraftforum.net/topic/1001131-146-immibiss-mods-smp-tubestuff-5204-core-5203-da-5204/"
-        installtype: "zip"
-        versions:
-            v52.1.1:
-            v52.0.6:
-            v51.0.4:
-            v51.0.2:
-            v3.2:
-    doorfix:
-        name: "Door Fix"
-        installtype: "zip"
-        versions:
-            v2.1:
-    ee:
-        name: "Equivalent Exchange"
-        description: ""
-        installtype: "zip"
-        modtype: "content"
-        versions:
-            v5.7.3:
-            v6.18:
-            v6.22:
-    ee2:
-        name: "Equivalent Exchange 2"
-        author: "Pahimar"
-        description: "The Equivalent Exchange mod is based around alchemy. It adds a number of extremely powerful end-game items that require large quantities of diamond to make, and large quantities of glowstone to power. It also grants the ability to easily condense materials into more valuable forms, up to diamonds and even beyond. Most of its recipes are based around the Philosopher's Stone, which you will need in order to access much of the new content."
-        link: "http://www.minecraftforum.net/topic/1106178-125-equivalent-exchange-2-v1467/"
-        wiki: "http://equivalentexchange.wikispaces.com/"
-        installtype: "zip"
-        modtype: "content"
-        versions:
-            v1.4.6.7:
-            v1.4.6.6:
-            v1.4.6.5:
-            v1.4.6.1:
-            v1.4.5.1:
-            v1.4.4.0:
-            v1.4.3.1:
-            v1.4.0.3:
-            v1.38.1:
-            v1.38:
-            v1.1:
-    ee3:
-        name: "Equivalent Exchange 3"
-        description: ""
-        installtype: "zip"
-        versions:
-            vpre1f:
-            vpre1e:
-            vpre1d:
-            vpre1:
-    elementalcreepers:
-        name: "Elemental Creepers"
-        installtype: "zip"
-        versions:
-            v2.3r2_mp:
-            v2.0:
-            v1.9:
-    enderchest:
-        name: "EnderChest"
-        author: "Ecu/chicken_bones"
-        description: "EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions).  Currently there are two types of storage, EnderChest and EnderPouch."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/909223-100181-chickenbones-mods/"
-        versions:
-            v1.0.2:
-            v1.0.1v2:
-            v1.0.1:
-            v1.0:
-    enderstorage:
-        name: "EnderStorage"
-        author: "Ecu/chicken_bones"
-        description: "EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions).  Currently there are two types of storage, EnderChest and EnderPouch."
-        link: "http://www.minecraftforum.net/topic/1160665-closed-quiddity-modding/"
-        installtype: "zip"
-        versions:
-            v1.4.1.2:
-            v1.3.1.1:
-            v1.3.1.0:
-            v1.3.0.4:
-            v1.3.0.3:
-            v1.2.1.6:
-            v1.2.1.3:
-            v1.2.1:
-            v1.1.3:
-            v1.1.1:
-            v1.1.0:
-    factorization:
-        name: "Factorization"
-        installtype: "zip"
-        versions:
-            v0.7.10:
-            v0.7.7:
-    floatingruins:
-        name: "Floating Ruins"
-        installtype: "zip"
-        versions:
-            v1.0.0:
-    floodgate:
-        name: "Floodgates"
-        installtype: "zip"
-        versions:
-            v1.1:
-    forestry:
-        name: "Forestry"
-        desctiption: ""
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
-        versions:
-            v2.0.0.11:
-            v1.7.0.5:
-            v1.7.0.1:
-            v1.4.0.4:
-            v1.4.0.3:
-            v1.4.0.2:
-            v1.4.0.1:
-            v1.3.4.4:
-            v1.3.4.3:
-            v1.3.4.0:
-            v1.3.2.1:
-            v1.2.9.15:
-            v1.2.6.6:
-            v1.2.6.4:
-            v1.2.6.3:
-            v1.3.0.3:
-    ic2:
-        name: "Industrial Craft 2"
-        author: "Alblaka & IC2 Team"
-        description: "This is it. IC2, the future of IC. While playing it, you will feel right at home again, rediscovering most of the stuff known from IC. However, once you get your machines running, you will quickly notice how smooth and well-designed everything works now. Wiring is easier, batterys aren't as twosided (on/off) anymore, new cables, rubber stuff, new machines, EVERYTHING was added. Create obstacle courses of Metal Poles and Rubber-Sheets, explore the Nether with an Electrical Jetpack or blow up whole landscapes at once by using the Dynamite-O-Mote. Or discover the much more complex mechanisms of Nuclear Engineering, blow up your hut or burn your hands. Or grab the rusty ol Composite Vest, and start hunting Creepers with the new, allmighty NanoSaber."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.industrial-craft.net/"
-        versions:
-            v1.115.218-lf:
-            v1.112.170:
-            v1.110.137:
-            v1.109.113:
-            v1.108.71:
-            v1.103:
-            v1.97:
-            v1.95b:
-            v1.95:
-            v1.81:
-            v1.71:
-            v1.70:
-            v1.43:
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.4
-            v1.42:
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.4
-            v1.64:
-                dependencies:
-                    baseModloader: 1.1.0
-                    baseforge: 1.3.2
-    ic2-advancedmachines:
-        name: "IC2 Advanced Machines"
-        author: "AtomicStryker"
-        description: "Adds several new blocks to IC2 to make your systems more effecient."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907"
-        versions:
-            v4.7:
-            v4.6:
-            v4.5:
-            v4.4:
-            v4.1:
-            v4.0:
-            v3.6e:
-            v3.1:
-            v3.2_beta2:
-    ic2-advancedpowermanagement:
-        name: "IC2 Advanced Power Management"
-        description: ""
-        installtype: "zip"
-        versions:
-            v1.1.55:
-            v1.1.40:
-            v1.1.30:
-    ic2-advancedrepulsionsystems:
-        name: "IC2 Advanced Repulsion Systems"
-        description: ""
-        installtype: "zip"
-        versions:
-            v52.0.4:
-            v51.0.3:
-            v51.0.1:
-            v50.2.2:
-            v50.2.1:
-    ic2-compactsolars:
-        name: "IC2 Compact Solars"
-        author: "cpw"
-        description: "Combines large amounts of solar panels into single blocks turning your solar arrays into effecient small scale power houses."
-        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=4827"
-        installtype: "zip"
-        versions:
-            v3.2.0.21:
-            v3.1.2.18:
-            v3.1.2.17:
-            v3.1.1.16:
-            v2.3.2.10:
-            v2.2.0.5:
-            v1.2:
-    ic2-nuclearcontrol:
-        name: "IC2 Nuclear Control"
-        author: "Shedar"
-        description: "Nuclear Control addon allows you to build efficient monitoring and notification system for your nuclear reactor. Also you can use Howler Alarm and Industrial Alarm in any case when you want industrial-style notification/alarming system."
-        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915"
-        installtype: "zip"
-        versions:
-            v1.4.5:
-            v1.4.4b:
-            v1.4.3:
-            v1.4.1:
-            v1.1.10b:
-            v1.1.9b:
-            v1.1.8:
-            v1.1.6:
-            v1.1.3:
-    ic2-transformers:
-        name: "IC2 Transformers"
-        installtype: "zip"
-        versions:
-            v1.7b:
-            v1.7:
-            v1.6:
-            v1.3:
-            v1.2:
-    immibiscore:
-        name: "Immibis Core"
-        author: "immibis"
-        description: "Core mod required for immibis mods"
-        link: "http://www.minecraftforum.net/topic/1001131-146-immibiss-mods-smp-tubestuff-5208-core-5220-da-5207-infinitubes-021/"
-        installtype: "zip"
-        versions:
-            v52.2.1:
-            v52.1.0:
-            v51.0.5:
-            v51.0.2:
-            v50.2.3:
-            v50.2.1:
-            v49.2.0:
-            v49.1.1:
-            v49.1.0:
-            v49.0.7:
-            v49.0.4:
-            v48.2.1:
-    ingameinfo:
-        name: "In Game Info"
-        installtype: "zip"
-        versions:
-            v1.2.5.d:
-    inventorytweaks:
-        name: "Inventory Tweaks"
-        author: "Jimeowan"
-        description: "Tweaks your inventory handling to be more intuitive. Break your iron sword in the heat of battle and don't have time to replace it? No worries, if you have another one handy in your inventory it will automatically be moved into the last slot it was used! Works with all stacked items!"
-        installtype: "zip"
-        modtype: "tweak"
-        link: "http://www.minecraftforum.net/topic/323444-inventory-tweaks-141b-mar-27/"
-        optional: true
-        versions:
-            v1.50:
-            v1.49:
-            v1.46:
-            v1.45:
-            v1.44:
-            v1.41b:
-            v1.40b:
-            v1.38:
-            v1.36:
-            v1.35:
-                dependencies:
-                    baseModloader: 1.0.0
-            v1.34b:
-                dependencies:
-                    baseModloader: 1.0.0
-            v1.37c:
-    ironchests:
-        name: "Iron Chests"
-        author: "cpw"
-        description: "IronChests adds several new chests to the game. One for each type of metal. You can even upgrade them!"
-        link: "http://www.minecraftforum.net/topic/981855-"
-        installtype: "zip"
-        versions:
-            v5.1.0.261:
-            v4.5.2.213:
-            v4.5.1.199:
-            v4.4.0.186:
-            v4.2.2.138:
-            v3.8.0.40:
-            v3.4.2.28:
-            v3.3.1.21:
-            v2.5:
-    lectern:
-        name: "Lectern"
-        installtype: "zip"
-        versions:
-            ssp-1.2.5:
-    macros:
-        name: "Macro/Keybind Mod"
-        installtype: "zip"
-        versions:
-            0.9.3.r2_for_1.3.2:
-            0.9.2_for_1.3.2:
-            0.8.7_for_1.2.5:
-            0.8.6_for_1.2.4:
-            0.8.5_for_1.2.3:
-    matmos:
-        name: "MAtmos"
-        author: "Hurricaaane"
-        description: "MAtmos is a sound atmosphere generator. When you play on any server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds in the forest or rumbling near a lava lake or wind gusts on a hilltop, which fills out the perpetual silence of Minecraft."
-        link: "http://www.minecraftforum.net/topic/379925-"
-        installtype: "zip"
-        modtype: "audio"
-        versions:
-            v20:
-            v12:
-            v11:
-            r10:
-            r8:
-    millenaire:
-        name: "Millenaire"
-        installtype: "zip"
-        versions:
-            v2.7.4:
-            v2.5.9:
-            v2.5.4:
-            v2.5.2:
-            v2.4.6:
-            v2.4.4:
-            v2.4.2:
-            v2.3.2:
-            v2.3.1:
-            v2.2.8:
-            v2.2.5:
-            v2.2.4:
-            v2.2.1:
-            v2.2:
-            v2.1.6:
-            v2.1.5:
-            v2.1.2:
-            v2.1:
-    minaptics:
-        name: "Minaptics"
-        installtype: "zip"
-        versions:
-            1.2.3r12vbox:
-            1.2.4r13vbox:
-    minions:
-        name: "Minecraft Minions"
-        installtype: "zip"
-        versions:
-            v1.1:
-            v1.2.3:
-            v1.2.5:
-    mffs:
-        name: "Modular Force Field System"
-        author: "Immibis"
-        description: "Create and manipulate force fields to your will!"
-        link: "http://forum.industrial-craft.net/index.php?page=Thread&postID=65261"
-        installtype: "zip"
-        versions:
-            v2.2.8.3.6:
-            v7:
-            v6:
-            v5:
-            v3:
-            v2.2.8.2.14:
-    mfr:
-        name: "MineFactory Reloaded"
-        author: "Powercrystals"
-        description: "A way to automatically farm plants and animals, as well some new rail tracks! With this mod you can set up a completely automated farm for any of these things that requires no real work aside from collecting the harvests and reloading the planter, without incredibly complex and unwieldy water/piston solutions. And you can milk cows to death or otherwise run livestock farms if you need those resources. Oh and it has conveyor belts too."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/"
-        versions:
-            v2.0.4:
-            v2.0.1:
-            v2.0.0:
-            v2.0.0rc5:
-            v1.4.1_01:
-                dependencies:
-                    baseModloader: 1.1.0
-                    baseforge: 1.3.2
-            v1.4.0p2:
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.4
-                    buildcraft: 2.2.11
-            v1.4.0p:
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
-                    buildcraft: 2.2.11
-            v1.4.0:
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
-                    buildcraft: 2.2.7
-    minecolony:
-        names: "Minecolony"
-        installtype: "zip"
-        versions:
-            v19yb:
-            v17yb:
-            v17.1yb:
-    minecraftconsole:
-        name: "Minecraft Console"
-        description: "The Minecraft console mod adds a new GUI console to Minecraft which makes viewing messages a whole lot easier!"
-        installtype: "zip"
-        modtype: "tweak"
-        link: "http://www.minecraftforum.net/topic/680231-181-minecraft-console-v10/"
-        optional: true
-        versions:
-            v1.2:
-                dependencies:
-                    baseModloader: 1.1.0
-            v1.1:
-                dependencies:
-                    baseModloader: 1.0.0
-    mocreatures:
-        installtype: "zip"
-        name: "Mo Creatures"
-        versions:
-            v4.5.1:
-    morefuel:
-        installtype: "zip"
-        name: "More Fuel"
-        versions:
-            v1.7:
-    mystcraft:
-        name: "Mystcraft"
-        installtype: "zip"
-        versions:
-            v0.9.5.00:
-            v0.9.4.05:
-            v0.9.4.00:
-            v0.10.0.00:
-    forgeessentials:
-        name: "ForgeEssentials"
-        installtype: "zip"
-        versions:
-            v1.1.0.248:
-    nei:
-        name: "Not Enough Items"
-        author: "chicken_bones"
-        description: "NEI is a successor to both Too Many Items and Recipe Book. It arose around the same time as Craft Guide when Alexandria and a few others on the IRC suggested that I merge both Too Many Items and Recipe Book to remove their greatest flaws, ironically too many items, or in the case of recipe book, too many recipies. Too Many Items was great, but the one thing it lacked was an easy way to search and sort your items. When you had a mod like Red Power coming along with 10000 items both TMI and Recipe Book were racking up the pages.  Even if you don't want to use NEI for cheating in items, you will likely feel right at home with the Recipe component of the mod."
-        link: "http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/"
-        installtype: "zip"
-        versions:
-            v1.4.7.0:
-            v1.4.5.0:
-            v1.4.4.0:
-            v1.4.3.4:
-            v1.4.3.3:
-            v1.4.2.7:
-            v1.4.2:
-            v1.4.1.2:
-            v1.4.1.1:
-            v1.2.2.2:
-            v1.2.2:
-            v1.2.0:
-            v1.2.1:
-    nei-plugins:
-        name: "Not Enough Items"
-        installtype: "zip"
-        versions:
-            v1.0.4.1-CUSTOM:
-            v1.0.4.1:
-            v1.0.3.6:
-            v1.0.3.5:
-            v1.0.2.2:
-    nei-buildcraft:
-        name: "NEI Buildcraft Plugin"
-        installtype: "zip"
-        versions:
-            v1.2.0.8:
-    nei-ic2:
-        name: "NEI IC2 Plugin"
-        installtype: "zip"
-        versions:
-            burn-v1.0:
-    nei-rc:
-        name: "NEI Railcraft Plugin"
-        installtype: "zip"
-        versions:
-            v1.5.0.10:
-            v1.2.2.3:
-            v1.2.2.2:
-    nei-redpower:
-        name: "NEI RedPower Plugin"
-        installtype: "zip"
-        versions:
-            v1.4.3:
-            v1.2.2.3:
-    nei-thaumcraft:
-        name: "NEI Thaumcraft Plugin"
-        installtype: "zip"
-        versions:
-            v1.0.6.15:
-    nei-thermalexpansion:
-        name: "NEI Thermal Expansion Plugin"
-        installtype: "zip"
-        versions:
-            v2.1.6:
-    netherores:
-        name: "Nether Ores"
-        author: "TehKrush"
-        description: "This is a fairly basic mod. It makes the eight 'ores' - coal, diamond, gold, iron, lapis, redstone, sopper and tin - spawn in the nether so that you have a reason to go there."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/554413-"
-        versions:
-            v2.0.2:
-            v1.4.6:
-            v1.4.2:
-            v1.2.1:
-            v1.1.2:
-                dependencies:
-                    baseModloader: 1.1.0
-                    baseforge: 1.3.2
-            v1.1.0:
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
-    omniwrench:
-        name: "CoFH OmniWrench"
-        installtype: "zip"
-        versions:
-            pr1:
-    omnitools:
-        name: "CoFH OmniTools"
-        author: "KingLemmingCoFH"
-        description: "This is an implementation of something that I know a lot of people have wanted, a wrench that works on many different mods: BuildCraft (and Forestry, RailCraft, Thermal Expansion), IndustrialCraft, and all Universal Electricity mods as well."
-        link: "http://www.minecraftforum.net/topic/1378315-"
-        installtype: "zip"
-        versions:
-            v3.0.4:
-            v2.2.5:
-            v2.2.3:
-    pfaeff:
-        name: "Pfaeff's Mods"
-        installtype: "zip"
-        versions:
-            v1.1:
-    powerconverters:
-        name: "Power Converters"
-        author: "AtomicStryker"
-        description: "Easy power conversion between Buildcraft and IC2!"
-        link: "http://atomicstryker.net/maintainedmods.html"
-        installtype: "zip"
-        modtype: "content"
-        versions:
-            v1.3.4:
-            v1.3.1_01:
-            v1.3.0p2:
-            v1.4.6:
-    powercrystalscore:
-        name: "Powercrystals Core"
-        author: "Powercrystals"
-        description: "The Core mod for all Powercrystals related mods"
-        installtype: "zip"
-        versions:
-            v1.0.0:
-            v1.0.1:
-            v1.4.6:
-    rc:
-        name: "Railcraft"
-        author: "CovertJaguar"
-        description: "Have you ever wished minecarts and rails had received a bit more attention during development? Well that ends now! Gone are all those broken bits and in their place are a ton of new tools to build your massive rail system. If you ever cared about rails, you wont ever look back!"
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
-        wiki: "http://railcraft.wikispaces.com/"
-        versions:
-            v6.17.0.0:
-            v6.13.1.0:
-            v6.12.2.0:
-            v6.12.1.0:
-            v6.12.0.0:
-            v6.10.0.0:
-            v6.9.0.0:
-            v6.8.0.0:
-            v6.7.0.0:
-            v5.4.7b:
-            v5.4.7:
-            v5.3.3:
-            v5.3.2:
-            v5.2.4:
-            v5.2.0:
-            v5.1.0:
-            v5.0.3:
-            v4.1.4:
-            v3.4.2:
-            v3.4.0:
-            v3.3.1:
-            v3.2.1:
-            v3.0.0:
-                dependencies:
-                    baseModloader: 1.1.0
-                    baseforge: 1.3.0
-            v2.2.1:
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.4
-                    basemcl: 4.1
-                    buildcraft: 2.2.11
-            v2.1.1:
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.2
-                    basemcl: 4.0
-                    buildcraft: 2.2.7
-    redpower:
-        name: "RedPower"
-        author: "Eloraam"
-        description: "Redpower by Eloraam is a mod for minecraft which introduces redstone-like wires, cables, integrated circuits, lights, and more."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.eloraam.com/"
-        versions:
-            v2.0.6:
-            v2.0.5b2:
-            v2.0.5b1:
-            v2.0.5:
-            v2.0.4e:
-            v2.0.4d:
-                dependencies:
-                    baseModloader: 1.1.0
-                    baseforge: 1.3.0
-            v2.0.4c:
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.4
-            v2.0.4b:
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
-    reisminimap:
-        name: "Rei's Minimap"
-        author: "ReiFNSK"
-        description: "An amazing minimap display at the top right corner of the screen. Check out the thread above for a full list of all the features available with this mod."
-        installtype: "zip"
-        modtype: "tweak"
-        link: "http://www.minecraftforum.net/topic/482147-125-jun23-reis-minimap-v32-04/"
-        optional: true
-        versions:
-            v3.2_06:
-            v3.2_05:
-            v3.2_04:
-            v3.2_03:
-            v3.0_04-1.2.5:
-            v3.0_04:
-            v3.0_03:
-            v3.0_01:
-            v3.0:
-            v2.9.01:
-            v2.9:
-    ropeplus:
-        name: "Ropes +"
-        installtype: "zip"
-        versions:
-            v1.1:
-            v1.1yb:
-            v1.2.3yb:
-    sensibleenchanting:
-        name: "Sensible Enchanting"
-        installtype: "zip"
-        versions:
-            v4.9:
-    shelf:
-        name: "Shelf"
-        installtype: "zip"
-        versions:
-            v1.1:
-            v1.2.3:
-    smartmoving:
-        name: "Smart Moving"
-        installtype: "zip"
-        versions:
-            v8.5:
-    somnia:
-        name: "Somnia"
-        installtype: "zip"
-        versions:
-            v24:
-            v23:
-            v21:
-    startinginventory:
-        name: "Starting Inventory"
-        installtype: "zip"
-        versions:
-            v1.2.5.a:
-    stevescarts:
-        name: "Steve's Carts"
-        installtype: "zip"
-        versions:
-            v2.0.0.a61:
-            v2.0.0.a42:
-            v2.0.0.a41:
-            v2.0.0.a40:
-            v2.0.0.a37:
-            v2.0.0.a30:
-            v2.0.0.a20:
-            v2.0.0.a19:
-            v2.0.0.a14:
-            v1.5.0:
-    thaumcraft:
-        name: "Thaumcraft"
-        installtype: "zip"
-        versions:
-            v3.0.3:
-            v3.0.1c:
-            v2.1.6d:
-            v2.1.6c:
-            v2.1.3b:
-            v2.1.1:
-            v2.1.0:
-            v2.0.2:
-            v2.0.1:
-            v2.0:
-            v1.2.6:
-            v1.2.5bc3:
-            v1.2.4bc3:
-            v1.2.4bc2:
-            v1.2.3:
-            v1.2.1:
-    thermalexpansion:
-        name: "Thermal Expansion"
-        author: "KingLemmingCoFH"
-        description: "Thermal Expansion, at its core, is a 'tech' mod - it's a mod of what ifs. For example, what if you could turn water into ice or snow with a machine? Or how about a machine that could combine lava and water however you choose? What if there were a wool that didn't burn? Or, what if you could set up advanced yet extremely compact production chains that didn't require redstone engines or complex pipe routing? If any of that interests you, then you may want to check this out."
-        link: "http://www.minecraftforum.net/topic/1297506-"
-        wiki: "http://thermalexpansion.wikispaces.com/"
-        installtype: "zip"
-        versions:
-            v2.2.2.2:
-            v2.1.6:
-            v2.1.5:
-            v2.1.4:
-            v2.1.3:
-            v2.0.9:
-            v2.0.4:
-            v2.0.3:
-            v2.0.2:
-            v2.0.1:
-            v2.0.0:
-            v1.0.4.2:
-            v1.0.4.1:
-            v1.0.4:
-            v1.0.3:
-    tok:
-        name: "Tales of Kingdoms"
-        installtype: "zip"
-        versions:
-            v1.3.0.3:
-    tomes:
-        name: "Tomes"
-        installtype: "zip"
-        versions:
-            ssp-1.2.5:
-            v4:
-    treecapitator:
-        name: "Treecapitator"
-        installtype: "zip"
-        versions:
-            v1.4.6.r03:
-            v1.4.6.r01:
-            v1.4.5.r03:
-            v1.4.5.r02:
-            v1.4.2.r03:
-            v1.2.5.e:
-            v1.1:
-            v1.0.0:
-            v1.2.3.b:
-    tubestuff:
-        name: "Tube Stuff"
-        author: "immibis"
-        description: "This is a small mod that adds two new blocks that I thought were missing, related to BuildCraft and RedPower. It's called TubeStuff because I don't have a better name - feel free to suggest one. The buffer could also use a less generic name."
-        link: "http://www.minecraftforum.net/topic/1001131-"
-        installtype: "zip"
-        versions:
-            v52.0.8:
-            v52.0.7:
-            v51.0.3:
-            v50.1.2:
-            v50.1.0:
-            v49.2.0:
-            v49.1.2:
-            v49.1.1:
-            v49.1.0:
-            v49.0.7:
-            v49.0.5:
-            v48.2.1:
-    twilightforest:
-        name: "Twilight Forest"
-        installtype: "zip"
-        versions:
-            v1.6r2:
-            v1.7.1:
-            v1.14.0:
-    voxelflight:
-        name: "VoxelFlight"
-        installtype: "zip"
-        versions:
-            1.4.2_mc1.3.2:
-    voxelget:
-        name: "VoxelGET"
-        installtype: "zip"
-        versions:
-            0.6.1_mc1.3.2_1:
-            0.6.1_mc1.3.2:
-            0.5.6.2_mc1.2.5:
-            0.5.6_mc1.2.4:
-            0.5.5_mc1.2.3:
-    voxelmenu:
-        name: "VoxelMenu"
-        installtype: "zip"
-        versions:
-            1.3.2_1:
-            1.3.2:
-    ue-assemblyline:
-        name: "Assembly Line"
-        author: "Calclavia"
-        description: "With all these machines in all these different mods, there needs to be a way to automate them into factories! The Assembly Line mod introduces you to conveyor belts, various item manipulation blocks and brings your machines together. While pipes are easier to build with for item transportation, who in the world would stuff their valuables inside a tiny little pipes? If you like building realistic styled factories, designing complex contraptions with various machines, then the Assembly Line mod is for you!"
-        link: "http://universalelectricity.com/?m=Assembly%20Line"
-        wiki: "http://wiki.universalelectricity.com/wiki/Assembly_Line"
-        installtype: "zip"
-        versions:
-            v0.2.2.44:
-            v0.2.1.40:
-            v0.2.0.38:
-            v0.1.9.35:
-            v0.1.8.30:
-            v0.1.3.13:
-    ue-atomicscience:
-        name: "Atomic Science"
-        author: "Calclavia"
-        description: "Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electricity deficiency problems. With our fission reactors, fusion reactors, antimatter generators and thorium power, you won't be short of electricity ever again! Note that this mod is still in alpha stage so documentation on items are not done properly."
-        link: "http://universalelectricity.com/?m=Atomic%20Science"
-        wiki: "http://wiki.universalelectricity.com/wiki/Main_Page"
-        installtype: "zip"
-        versions:
-            v0.3.2.127:
-            v0.3.1.123:
-            v0.3.0.122:
-            v0.3.0.121:
-            v0.2.6.93:
-    ue-basiccomponents:
-        name: "Basic Components"
-        author: "Calclavia"
-        description: "This is the main API interface for Universal Electricity and provides many of the basic building blocks other mods in the pack use."
-        link: "http://www.universalelectricity.com/"
-        wiki: "http://wiki.universalelectricity.com/wiki/Basic_Components"
-        installtype: "zip"
-        versions:
-            v1.2.2.327:
-            v1.2.1.317:
-            v1.1.3.278:
-    ue-basicpipes:
-        name: "Basic Pipes"
-        author: "darkguardsman"
-        description: "Basic pipes to use with Universal Electricity"
-        installtype: "zip"
-        versions:
-            v2.2.1:
-    ue-electricexpansion:
-        name: "Electric Expansion"
-        author: "Mattredsox and Alex_Hawks"
-        description: "Electric Expansion is a Universal Electricity mod that focuses mainly on energy storage and transfer as well as adding more cables for better energy transfer. This mod will make Universal Electricity more complex and realistic. We try to make all aspects as realistic as possible, whether that means the items and block names or the processes and materials for each aspect of Electric Expansion."
-        link: "http://universalelectricity.com/?m=Electric%20Expansion"
-        wiki: "http://wiki.universalelectricity.com/wiki/Electric_Expansion"
-        installtype: "zip"
-        versions:
-            v1.2.6:
-            v1.2.5:
-            v1.0.6:
-            v1.0.4:
-            v1.0.3:
-            v1.0.2:
-            v0.4.0:
-    ue-hawksmachinery:
-        name: "Hawks Machinery"
-        installtype: "zip"
-        versions:
-            v1.0.0PRE4:
-    ue-icbm:
-        name: "ICBM"
-        author: "Calclavia"
-        description: "ICBM is a Minecraft Mod that introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!"
-        link: "http://universalelectricity.com/?m=ICBM"
-        wiki: "http://wiki.universalelectricity.com/wiki/ICBM"
-        installtype: "zip"
-        versions:
-            v1.0.1.123:
-            v1.0.0.119:
-            v1.0.0.115:
-            v0.6.3.70:
-    ue-mekanism:
-        name: "Mekanism"
-        author: "Aidancbrady"
-        description: "Mekanism brings 5 new sets of tools and armor, a new types of tools and weapons, more explosives, magic items, weather and time control, powerful machines, a new kind of bow and arrow, lightning rods, and a few other features into Minecraft.  Even better, it's open source."
-        link: "http://universalelectricity.com/?m=Mekanism"
-        wiki: "http://wiki.universalelectricity.com/wiki/Mekanism"
-        installtype: "zip"
-        versions:
-            v5.0.8:
-            v5.0.2_r2:
-            v5.0.2:
-            v5.0.1:
-            v5.0.0.pre6.b3:
-            v5.0.0.pre6.b2:
-            v5.0.0.pre5.b2:
-    ue-mekanismgenerators:
-        name: "Mekanism Generators"
-        author: "Aidancbrady"
-        description: "Component of Mekanism"
-        installtype: "zip"
-        versions:
-            v5.0.8:
-            v5.0.2_r2:
-            v5.0.2:
-            v5.0.1:
-            v5.0.0.pre6.b3:
-            v5.0.0.pre6.b2:
-            v5.0.0.pre5.b2:
-    ue-mekanismtools:
-        name: "Mekanism Tools"
-        author: "Aidancbrady"
-        description: "Component of Mekanism"
-        installtype: "zip"
-        versions:
-            v5.0.8:
-            v5.0.2_r2:
-            v5.0.2:
-            v5.0.1:
-            v5.0.0.pre6.b3:
-            v5.0.0.pre6.b2:
-            v5.0.0.pre5.b2:
-    ue-mffs:
-        name: "MFFS"
-        author: "ThunderDark"
-        description: "Create and manipulate force fields to your will!"
-        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1292"
-        installtype: "zip"
-        versions:
-            v2.2.8.2.16:
-            v2.2.8.2.13:
-            v2.2.8.1.7:
-    ue-powertools:
-        name: "Power Tools"
-        installtype: "zip"
-        versions:
-            v1.1.4.6:
-            v1.1.3.5:
-    voxelpacket:
-        name: "VoxelPacket"
-        installtype: "zip"
-        versions:
-            1.2_mc1.3.2_1:
-            1.2_mc1.3.2:
-            1.0.1_mc1.2.5:
-            1.0.1_mc1.2.4:
-            1.0.2_client_obf_mc1.2.3:
-    voxelplayer:
-        name: "VoxelPlayer"
-        installtype: "zip"
-        versions:
-            0.7.2_mc1.3.2:
-            0.7.1_mc1.3.2:
-            0.6.1_mc1.2.5:
-            0.6.1_mc1.2.4:
-            v8.1.0:
-    voxelsnipergui:
-        name: "VoxelSniperGUI"
-        installtype: "zip"
-        versions:
-            v1.7:
-    voxeltextures:
-        name: "VoxelTextures"
-        installtype: "zip"
-        versions:
-            0.6.8_mc1.3.2:
-            0.6.5_mc1.3.2:
-            0.4.3_mc1.2.5:
-            0.4.2_mc1.2.5:
-            0.4.1_mc1.2.4:
-            0.4.0_mc1.2.3:
-    voxelworld:
-        name: "VoxelWorld"
-        installtype: "zip"
-        versions:
-            v8.1.0:
-    wirelessredstone:
-        name: "Wireless Redstone"
-        description: "Wireless Redstone is a Minecraft modification that allows you to transmit and receive redstone signals without wires. The mod has been in beta for 4 weeks prior to final release, this was done to guarantee as much quality as possible for the final product and to make sure the base mod has room for iteration and expantion."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/328725-100wireless-redstone-v15/"
-        versions:
-            v1.5-1.2.5:
-            v1.5.3:
-            v1.5.2:
-                dependencies:
-                    baseModloader: 1.1.0
-            v1.5.1:
-            v1.5:
-                dependencies:
-                    baseModloader: 1.0.0
-            v1.4:
-                dependencies:
-                    baseModloader: 1.0.0
-    worldeditcui:
-        name: "WorldEdit CUI"
-        description: ""
-        installtype: "zip"
-        modtype: "UI"
-        link: "http://www.minecraftforum.net/topic/885099-11-worldeditcui-worldedit-client-user-interface-v11a/"
-        versions:
-            1.3.2a_mc1.3.2_voxelmodpack_patched:
-            v1.2_mc1.2.4:
-            v1.2:
-            v1.1:
-            v1.0:
-    wrcbe:
-        name: "Wireless Redstone Chicken Bones Edition"
-        author: "chicken_bones"
-        description: "In its simplest this is a mod that allows you to transmit your redstone state wirelessly. Even if you dont use redstone this mod could still be for you. Found an awesome landscape you'd like to mark, a cool cave to explore, or keep losing your way from base to base? Ever wished that compass pointed somewhere else or there was a way to mark things on a map. Well now there is. With the wireless addons component of this mod you can use wireless signals for navigation."
-        link: "http://www.minecraftforum.net/topic/909223-"
-        installtype: "zip"
-        versions:
-            v1.3.2.8:
-            v1.3.2.4:
-            v1.3.2:
-            v1.3.1.1:
-            v1.2.2.3:
-            v1.2.2.1:
-            v1.2.1:
-            v1.2.0:
-    wrcbe-addons:
-        name: "WRCBE Addons"
-        installtype: "zip"
-        versions:
-            v1.3.2.8:
-            v1.3.2.4:
-            v1.3.2:
-            v1.3.1.2:
-    wrcbe-redpower:
-        name: "WRCBE RedPower Addon"
-        installtype: "zip"
-        versions:
-            v1.3.2.8:
-            v1.3.2.4:
-            v1.3.2:
-    xpbook:
-        name: "XP Book"
-        installtype: "zip"
-        versions:
-            ssp-1.2.5:
-            v5:
-            v4:
-    yogbox:
-        name: "Yogbox"
-        installtype: "zip"
-        versions:
-            v1.1.0:
-    zeppelin:
-        name: "Zeppelin Mod"
-        installtype: "zip"
-        versions:
-            v1.1.0.0.30:
-            v1.1.0.0.28:
-            v1.1.0.0.25:
-    z-spotlight-configs:
-        name: "Mod Spotlight Configs"
-        installtype: "zip"
-        versions:
-            thaumcraft-v2.0.1:
-    z-technic-configs:
-        name: "Technic Configs"
-        description: "A collection of configs for all Technic mods"
-        installtype: "zip"
-        versions:
-            v7.5.2:
-            v7.5.1:
-            v7.5.0:
-            v7.4.1:
-            v7.4.0:
-            v7.3.5:
-            v7.3.0:
-            v7.2.7:
-            v7.2.6:
-            v7.2.0:
-            v7.1.0:
-            v7.0.1:
-            v7.0.0:
-            v6.1.1:
-            v6.1.0:
-            v6.0.7:
-            v6.0.6:
-            v6.0.5:
-            v6.0.4:
-            v6.0.3:
-            v6.0.2:
-            v6.0.0:
-    z-voltz-configs:
-        name: "Voltz Configs"
-        installtype: "zip"
-        versions:
-            v1.0.4:
-            v1.0.3:
-            v1.0.2:
-            v1.0.1:
-            v1.0.0:
-            v0.0.1:
-    z-tekkit-configs:
-        name: "Tekkit Configs"
-        description: "A collection of configs for all Tekkit mods"
-        installtype: "zip"
-        versions:
-            v3.1.3:
-            v3.1.2:
-            v3.1.1:
-            v3.1.0:
-            v3.0.3:
-            v3.0.2:
-            v3.0.1:
-            v3.0.0a:
-            v3.0.0:
-            v2.1.1:
-            v2.1:
-            v2.0:
-            v2.0.0:
-    z-tekkit-keybinds:
-        name: "Tekkit Keybinds"
-        description: "Separate collection for keybinds"
-        installtype: "zip"
-        versions:
-            v3.1.3:
-            v3.1.2:
-    z-tekkitlite-configs:
-        name: "Tekkit Lite Configs"
-        installtype: "zip"
-        versions:
-            v0.5.2:
-            v0.5.1:
-            v0.5.0:
-    z-voxelmodpack-configs:
-        name: "VoxelModPack Configs"
-        installtype: "zip"
-        versions:
-            v9.1.2:
-            v9.0.0:
-            v8.4.0:
-            v8.3.0:
-            v8.2.0:
-            v8.1.0:
-    z-voxelmodpack-texturepacks:
-        name: "VoxelModPack Texture Packs"
-        installtype: "zip"
-        versions:
-            v8.3.0:
-            v8.2.0:
-    z-yogbox-configs:
-        name: "Yogbox Configs"
-        installtype: "zip"
-        versions:
-            v1.1.0:
-            v1.1.1:
-            v1.1.2:
-            v1.1.3:
-            v1.1.5:
-            v1.1.6:
-            v1.2.0:
-            v1.2.1:
-            v1.2.5:
-    animalbikes:
-        name: "Yogbox Configs"
-        installtype: "zip"
-        versions:
-            v1.4.6:
-    appeng:
-        name: "Applied Energistics"
-        installtype: "zip"
-        versions:
-            rv8:
-    bibliocraft:
-        name: "Biblio Craft"
-        installtype: "zip"
-        versions:
-            v1.0.2:
-                bibliocraft:
-    buildcraft-valvepipeAM:
-        name: "BuildCraft-Z-ValvePipeAM"
-        installtype: "zip"
-        versions:
-            v1.3.2:
-    chococraft:
-        name: "Chocobos"
-        installtype: "zip"
-        versions:
-            v2.5.3:
-    doubledoor:
-        name: "Double door fix"
-        installtype: "zip"
-        versions:
-            v4.5:
-    gravitygun:
-        name: "Gravity Gun"
-        installtype: "zip"
-        versions:
-            v1.4.7v1:
-    mpowersuits:
-        name: " Modular Powersuits"
-        installtype: "zip"
-        versions:
-            v2.0.45:
-    pluginsforestry:
-        name: " Modular Powersuits"
-        installtype: "zip"
-        versions:
-            build28:
-    secretrooms:
-        name: " Secret Rooms"
-        installtype: "zip"
-        versions:
-            v4.5.0.190:
-    trialmix:
-        name: "Trial Mix"
-        installtype: "zip"
-        versions:
-            v1.4.7v3:
-    usefulfood:
-        name: "Useful Food"
-        installtype: "zip"
-        versions:
-            v1.3.1:
-    xreliquary:
-        name: "XReliquary"
-        installtype: "zip"
-        versions:
-            v1.05b:
+	mods:
+		CARuins:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.3.0:
+
+		IDResolver:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				1.4.6.1:
+
+		adventureitems:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1:
+				v1.2.3:
+				v1.2.5:
+
+		airships:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.2.3:
+				v1.2.5:
+				v2.5.1:
+
+		alienvspredator:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.9.7:
+
+		animalbikes:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.6:
+
+		appeng:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				rv8:
+				rv9:
+
+		armorstand:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1:
+				v1.2.3:
+				v1.2.5:
+
+		aurorarubealis:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v101:
+
+		balkonsweaponmod:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.10-1.4.6:
+				v1.10.3:
+				v1.10:
+				v8.1:
+				v8.2:
+				v8.3:
+				v8.4:
+				v8.5:
+				v8.6:
+
+		basemods:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				pepin-v0.0.1:
+				pepin_optifine-v0.0.1:
+				pepin_optifine_shaders-v0.0.1:
+
+		basepepin:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				pepin_base-v0.0.1:
+
+		battletowers:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1:
+				v1.2.3:
+				v1.2.5:
+				v1.4.6:
+
+		betterdungeons:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v0.91:
+				v0.92:
+				v0.921:
+				v0.922:
+				v0.923:
+				v0.925:
+				v0.931:
+				v0.932.1:
+
+		bettershelf:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.0.0:
+
+		bibliocraft:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.0.2:
+				v1.1.0:
+
+		buildcraft:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				A-3.4.3:
+				v2.2.11:
+				v2.2.12:
+				v2.2.13:
+				v2.2.14:
+				v2.2.7:
+				v3.1.2:
+				v3.1.3:
+				v3.1.4:
+				v3.1.4pre:
+				v3.1.5:
+				v3.1.8:
+				v3.2.0:
+				v3.2.2:
+				v3.3.0:
+				v3.4.0:
+				v3.4.3:
+				additionalpipes-v2.1.3.u28.b2:
+				additionalpipes-v2.1.3.u35:
+				additionalpipes-v2.1.3.u36:
+				additionalpipes-v2.1.3.u38:
+				additionalpipes-v2.1.3.u40:
+				additionalpipes-v2.1.3:
+				additionalpipes-v3.0.1:
+				additionalpipes-v3.0.10:
+				additionalpipes-v3.1.0:
+				additionalpipes-v3.1:
+				additionalpipes-v32.3:
+				additionalpipes-v34:
+				additionalpower-v0.1.1:
+				logisticspipes-v0.1.0a:
+				logisticspipes-v0.1.2a:
+				logisticspipes-v0.1.3a:
+				logisticspipes-v0.1.8a:
+				logisticspipes-v0.2.0b:
+				logisticspipes-v0.2.1A:
+				logisticspipes-v0.2.2a:
+				logisticspipes-v0.2.4a:
+				logisticspipes-v0.2.5b:
+				logisticspipes-v0.6.0.pre1:
+				logisticspipes-v0.6.0.pre2:
+				logisticspipes-v0.6.1.pre19:
+				logisticspipes-v0.6.9.32:
+				logisticspipes-v0.6.9.51:
+				logisticspipes-v0.7.0.75:
+				logisticspipes-v0.7.0.83:
+				logisticspipes-v0.7.0.pre2:
+				objects-v0.9.4.65:
+				objects-v0.9.6.73:
+				objects-v100:
+				objects-v56:
+				objects-v63:
+				objects-v84:
+				objects-v85:
+				valvepipeAM-v1.3.2:
+
+		ccsensors:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v017pr1:
+				v017pr2:
+
+		chargepads:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.3.0.58:
+				v2.4.1.66:
+
+		chargingbench:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.43:
+				v1.64-1:
+				v1.70-1:
+				v1.71-1:
+				v1.81-1:
+				v1.95b:
+
+		chickenchunks:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.2.1.0:
+				v1.2.1.1:
+				v1.3.1.0:
+
+		chococraft:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.5.3:
+
+		codechickencore:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v0.4.2:
+				v0.4.4:
+				v0.5.0:
+				v0.5.2:
+				v0.5.3:
+				v0.5.5:
+				v0.6.10:
+				v0.6.14:
+				v0.6.15:
+				v0.6.16:
+				v0.6.6.1:
+				v0.6.8.1:
+				v0.7.0.0:
+				v0.7.0.1:
+				v0.7.0.2:
+				v0.7.3:
+
+		cofhcore:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.7.3:
+
+		computercraft:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.2:
+				v1.21:
+				v1.3:
+				v1.31:
+				v1.33:
+				v1.4:
+				v1.41:
+				v1.46:
+				v1.47:
+				v1.481:
+				v1.5:
+
+		configs:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				pepin-v0.0.1:
+				pepin-v0.0.2:
+
+		craftguide:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.3.0:
+				v1.3.1:
+				v1.4.1:
+				v1.4.2:
+				v1.4.3:
+				v1.4.4:
+
+		craftingtableii:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.5:
+				v1.6.2-1.2.3:
+				v1.6.2:
+
+		craftingtableiii:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.8:
+
+		crystalwing:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.0.0:
+				v1.2.5.a:
+
+		custommobspawner:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.11:
+
+		dimanchor:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v3.2:
+				v51.0.2:
+				v51.0.4:
+				v52.0.6:
+				v52.1.1:
+
+		doorfix:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.1:
+
+		doubledoor:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v4.5:
+
+		ee:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v5.7.3:
+				v6.18:
+				v6.22:
+
+		ee2:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1:
+				v1.38.1:
+				v1.38:
+				v1.4.0.3:
+				v1.4.3.1:
+				v1.4.4.0:
+				v1.4.5.1:
+				v1.4.6.1:
+				v1.4.6.5:
+				v1.4.6.6:
+				v1.4.6.7:
+
+		ee3:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				vpre1:
+				vpre1d:
+				vpre1e:
+				vpre1f:
+
+		elementalcreepers:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.9:
+				v2.0:
+				v2.3r2_mp:
+
+		enderchest:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.0.1:
+				v1.0.1v2:
+				v1.0.2:
+				v1.0:
+
+		enderstorage:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1.0:
+				v1.1.1:
+				v1.1.3:
+				v1.2.1.3:
+				v1.2.1.6:
+				v1.2.1:
+				v1.3.0.3:
+				v1.3.0.4:
+				v1.3.1.0:
+				v1.3.1.1:
+				v1.4.1.2:
+
+		extrabees:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.9.12-pre:
+				v1.5.0.4:
+				v1.5.0.6:
+
+		extrabiomesxl:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.7-3.8.0:
+				v3.10.0:
+
+		factorization:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v0.7.10:
+				v0.7.7:
+
+		flansmod:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.1.1:
+				simpleparts-v1.1.0:
+				ww2-v1.1.0:
+
+		flatbedrock:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.0.3:
+
+		floatingruins:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.0.0:
+
+		floodgate:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1:
+
+		forestry:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.2.6.3:
+				v1.2.6.4:
+				v1.2.6.6:
+				v1.2.9.15:
+				v1.3.0.3:
+				v1.3.2.1:
+				v1.3.4.0:
+				v1.3.4.3:
+				v1.3.4.4:
+				v1.4.0.1:
+				v1.4.0.2:
+				v1.4.0.3:
+				v1.4.0.4:
+				v1.7.0.1:
+				v1.7.0.5:
+				v2.0.0.11:
+
+		forgeessentials:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1.0.248:
+
+		forgeirc:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.0.14:
+
+		gravitygun:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.7v1:
+				v1.4.7v2:
+
+		gregtech:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.75b:
+				v2.80c:
+				v2.81a:
+
+		guiapi:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v0.15.2:
+
+		ic2:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.103:
+				v1.108.71:
+				v1.109.113:
+				v1.110.137:
+				v1.112.170:
+				v1.115.218-lf:
+				v1.115.231-lf:
+				v1.42:
+				v1.43:
+				v1.64:
+				v1.70:
+				v1.71:
+				v1.81:
+				v1.95:
+				v1.95b:
+				v1.97:
+				advancedmachines-v3.1:
+				advancedmachines-v3.2_beta2:
+				advancedmachines-v3.6e:
+				advancedmachines-v4.0:
+				advancedmachines-v4.1:
+				advancedmachines-v4.4:
+				advancedmachines-v4.5:
+				advancedmachines-v4.6:
+				advancedmachines-v4.7:
+				advancedmachines-v4.7b:
+				advancedpowermanagement-v1.1.30:
+				advancedpowermanagement-v1.1.40:
+				advancedpowermanagement-v1.1.55:
+				advancedrepulsionsystems-v50.2.1:
+				advancedrepulsionsystems-v50.2.2:
+				advancedrepulsionsystems-v51.0.1:
+				advancedrepulsionsystems-v51.0.3:
+				advancedrepulsionsystems-v52.0.4:
+				advancedsolarpanels-v3.3.2:
+				advancedsolarpanels-v3.3.3:
+				compactsolars-v1.2:
+				compactsolars-v2.2.0.5:
+				compactsolars-v2.3.2.10:
+				compactsolars-v3.1.1.16:
+				compactsolars-v3.1.2.17:
+				compactsolars-v3.1.2.18:
+				compactsolars-v3.2.0.21:
+				nuclearcontrol-v1.1.10b:
+				nuclearcontrol-v1.1.3:
+				nuclearcontrol-v1.1.6:
+				nuclearcontrol-v1.1.8:
+				nuclearcontrol-v1.1.9b:
+				nuclearcontrol-v1.4.1:
+				nuclearcontrol-v1.4.3:
+				nuclearcontrol-v1.4.4b:
+				nuclearcontrol-v1.4.5:
+				transformers-v1.2:
+				transformers-v1.3:
+				transformers-v1.6:
+				transformers-v1.7:
+				transformers-v1.7b:
+
+		immibiscore:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v48.2.1:
+				v49.0.4:
+				v49.0.7:
+				v49.1.0:
+				v49.1.1:
+				v49.2.0:
+				v50.2.1:
+				v50.2.3:
+				v51.0.2:
+				v51.0.5:
+				v52.1.0:
+				v52.2.1:
+				v52.4.4:
+
+		ingameinfo:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.2.5.d:
+
+		invasion:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v0.11.5:
+
+		inventorytweaks:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.34b:
+				v1.35:
+				v1.36:
+				v1.37c:
+				v1.38:
+				v1.40b:
+				v1.41b:
+				v1.44:
+				v1.45:
+				v1.46:
+				v1.49:
+				v1.50:
+
+		ironchests:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.5:
+				v3.3.1.21:
+				v3.4.2.28:
+				v3.8.0.40:
+				v4.2.2.138:
+				v4.4.0.186:
+				v4.5.1.199:
+				v4.5.2.213:
+				v5.0.1.246:
+				v5.1.0.261:
+
+		lasermod:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.2:
+
+		lectern:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				ssp-1.2.5:
+
+		legendarybeasts:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.6:
+
+		macros:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				0.8.5_for_1.2.3:
+				0.8.6_for_1.2.4:
+				0.8.7_for_1.2.5:
+				0.9.2_for_1.3.2:
+				0.9.3.r2_for_1.3.2:
+
+		matmos:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				r10:
+				r8:
+				v11:
+				v12:
+				v20:
+				v8:
+
+		mffs:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.2.8.2.14:
+				v2.2.8.3.6:
+				v3:
+				v5:
+				v6:
+				v7:
+
+		mfr:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.0:
+				v1.4.0p:
+				v1.4.0p2:
+				v1.4.1_01:
+				v2.0.0:
+				v2.0.0rc5:
+				v2.0.1:
+				v2.0.4:
+				v2.2.0:
+
+		millenaire:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.0.7:
+				v2.0.9:
+				v2.0:
+				v2.1.2:
+				v2.1.5:
+				v2.1.6:
+				v2.1:
+				v2.2.1:
+				v2.2.4:
+				v2.2.5:
+				v2.2.8:
+				v2.2:
+				v2.3.1:
+				v2.3.2:
+				v2.4.2:
+				v2.4.4:
+				v2.4.6:
+				v2.5.2:
+				v2.5.4:
+				v2.5.9:
+				v2.7.4:
+
+		minaptics:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				1.2.3r12vbox:
+				1.2.4r13vbox:
+
+		minecolony:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v17.1yb:
+				v17yb:
+				v19yb:
+
+		minecraftconsole:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1:
+				v1.2:
+
+		minions:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1:
+				v1.2.3:
+				v1.2.5:
+
+		miscperipherals:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.3:
+				v3.1b:
+
+		mobamputation:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.6v1:
+
+		mobspawncontrol:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.6.1:
+
+		mocreatures:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v4.5.1:
+
+		morefuel:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.7:
+
+		mozombies:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.42:
+
+		mpowersuits:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.0.45:
+				v3.0.178:
+
+		mutantcreatures:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.2.1:
+
+		mystcraft:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v0.10.0.00:
+				v0.9.4.00:
+				v0.9.4.05:
+				v0.9.5.00:
+
+		nei:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.2.0:
+				v1.2.1:
+				v1.2.2.2:
+				v1.2.2:
+				v1.4.1.1:
+				v1.4.1.2:
+				v1.4.2.7:
+				v1.4.2:
+				v1.4.3.3:
+				v1.4.3.4:
+				v1.4.4.0:
+				v1.4.5.0:
+				v1.4.7.0:
+				buildcraft-v1.0.0.1:
+				buildcraft-v1.2.0.8:
+				ic2-burn-v1.0:
+				ic2-v1.0.0.0:
+				plugins-v1.0.2.2:
+				plugins-v1.0.3.5:
+				plugins-v1.0.3.6:
+				plugins-v1.0.4.1-CUSTOM:
+				plugins-v1.0.4.1:
+				plugins-v1.0.4.5:
+				rc-v1.2.2.2:
+				rc-v1.2.2.3:
+				rc-v1.5.0.10:
+				redpower-v1.2.2.3:
+				redpower-v1.4.3:
+				redpower-v1.4.6:
+				thaumcraft-v1.0.6.15:
+				thermalexpansion-v2.1.6:
+
+		netherores:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1.0:
+				v1.1.2:
+				v1.2.1:
+				v1.4.2:
+				v1.4.6:
+				v2.0.2:
+				v2.0.6:
+
+		obsidiplates:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.2.0.3:
+
+		omnitools:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.2.3:
+				v2.2.5:
+				v3.0.4:
+
+		omniwrench:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				pr1:
+
+		parachute:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.7:
+
+		petrogen:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1:
+				v1.2.1:
+
+		pfaeff:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1:
+
+		pluginsforestry:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				build28:
+
+		portalgun:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.7v2:
+				v1.4.7v5:
+
+		powerconverters:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.3.0p2:
+				v1.3.1_01:
+				v1.3.4:
+				v1.4.6:
+
+		powercrystalscore:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.0.0:
+				v1.0.1:
+
+		rc:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.1.1:
+				v2.2.1:
+				v3.0.0:
+				v3.2.1:
+				v3.3.1:
+				v3.4.0:
+				v3.4.2:
+				v4.1.4:
+				v5.0.3:
+				v5.1.0:
+				v5.2.0:
+				v5.2.4:
+				v5.3.2:
+				v5.3.3:
+				v5.4.7:
+				v5.4.7b:
+				v6.10.0.0:
+				v6.12.0.0:
+				v6.12.1.0:
+				v6.12.2.0:
+				v6.13.1.0:
+				v6.17.0.0:
+				v6.7.0.0:
+				v6.8.0.0:
+				v6.9.0.0:
+
+		recipehelper:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v4:
+
+		redpower:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.0.4b:
+				v2.0.4c:
+				v2.0.4d:
+				v2.0.4e:
+				v2.0.5:
+				v2.0.5b1:
+				v2.0.5b2:
+				v2.0.6:
+
+		redstoneremote:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1.0:
+
+		reisminimap:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v2.9.01:
+				v2.9:
+				v3.0:
+				v3.0_01:
+				v3.0_03:
+				v3.0_04-1.2.5:
+				v3.0_04:
+				v3.2_03:
+				v3.2_04:
+				v3.2_05:
+				v3.2_06:
+
+		ropeplus:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1:
+				v1.1yb:
+				v1.2.3yb:
+				v1.2.5yb:
+
+		rp2brushwool:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.6:
+
+		secretrooms:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v4.5.0.190:
+
+		sensibleenchanting:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v4.9:
+
+		shelf:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1:
+				v1.2.3:
+
+		smartmoving:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v8.5:
+
+		somnia:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v21:
+				v23:
+				v24:
+
+		soulshards:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.26:
+
+		startinginventory:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.0.0:
+				v1.2.5.a:
+
+		stevescarts:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.5.0:
+				v2.0.0.a14:
+				v2.0.0.a19:
+				v2.0.0.a20:
+				v2.0.0.a30:
+				v2.0.0.a37:
+				v2.0.0.a40:
+				v2.0.0.a41:
+				v2.0.0.a42:
+				v2.0.0.a61:
+
+		thaumcraft:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.0.3:
+				v1.1:
+				v1.2.1:
+				v1.2.3:
+				v1.2.4bc2:
+				v1.2.4bc3:
+				v1.2.5bc3:
+				v1.2.6:
+				v2.0.1:
+				v2.0.2:
+				v2.0:
+				v2.1.0:
+				v2.1.1:
+				v2.1.3b:
+				v2.1.6c:
+				v2.1.6d:
+				v3.0.1c:
+				v3.0.3:
+
+		thaumicbees:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1.702-67:
+				v1.4.3a:
+
+		thermalexpansion:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.0.3:
+				v1.0.4.1:
+				v1.0.4.2:
+				v1.0.4:
+				v2.0.0:
+				v2.0.1:
+				v2.0.2:
+				v2.0.3:
+				v2.0.4:
+				v2.0.9:
+				v2.1.3:
+				v2.1.4:
+				v2.1.5:
+				v2.1.6:
+				v2.2.2.2:
+
+		tinkers:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				construct-v1.0.7:
+
+		tok:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.3.0.2:
+				v1.3.0.3:
+
+		tomes:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				ssp-1.2.5:
+				v3:
+				v4:
+
+		traincraft:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v3.1.13_010:
+
+		treecapitator:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.0.0:
+				v1.1:
+				v1.2.3.b:
+				v1.2.5.e:
+				v1.4.2.r03:
+				v1.4.5.r02:
+				v1.4.5.r03:
+				v1.4.6.r01:
+				v1.4.6.r03:
+
+		trialmix:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.7v3:
+
+		tropicraft:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4.6:
+
+		tubestuff:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v48.2.1:
+				v49.0.5:
+				v49.0.7:
+				v49.1.0:
+				v49.1.1:
+				v49.1.2:
+				v49.2.0:
+				v50.1.0:
+				v50.1.2:
+				v51.0.3:
+				v52.0.7:
+				v52.0.8:
+				v52.3.1:
+
+		turretmod:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.3.2:
+
+		twilightforest:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.14.0:
+				v1.15.4:
+				v1.6r2:
+				v1.7.1:
+
+		ue:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				assemblyline-v0.1.3.13:
+				assemblyline-v0.1.8.30:
+				assemblyline-v0.1.9.35:
+				assemblyline-v0.2.0.38:
+				assemblyline-v0.2.1.40:
+				assemblyline-v0.2.2.44:
+				atomicscience-v0.2.6.93:
+				atomicscience-v0.3.0.121:
+				atomicscience-v0.3.0.122:
+				atomicscience-v0.3.1.123:
+				atomicscience-v0.3.2.127:
+				basiccomponents-v1.1.3.278:
+				basiccomponents-v1.2.1.317:
+				basiccomponents-v1.2.2.327:
+				basicpipes-v2.2.1:
+				electricexpansion-v0.4.0:
+				electricexpansion-v1.0.2:
+				electricexpansion-v1.0.3:
+				electricexpansion-v1.0.4:
+				electricexpansion-v1.0.6:
+				electricexpansion-v1.2.5:
+				electricexpansion-v1.2.6:
+				hawksmachinery-v1.0.0PRE4:
+				icbm-v0.6.3.70:
+				icbm-v1.0.0.115:
+				icbm-v1.0.0.119:
+				icbm-v1.0.1.123:
+				mekanism-v5.0.0.pre5.b2:
+				mekanism-v5.0.0.pre6.b2:
+				mekanism-v5.0.0.pre6.b3:
+				mekanism-v5.0.1:
+				mekanism-v5.0.2:
+				mekanism-v5.0.2_r2:
+				mekanism-v5.0.8:
+				mekanismgenerators-v5.0.0.pre5.b2:
+				mekanismgenerators-v5.0.0.pre6.b2:
+				mekanismgenerators-v5.0.0.pre6.b3:
+				mekanismgenerators-v5.0.1:
+				mekanismgenerators-v5.0.2:
+				mekanismgenerators-v5.0.2_r2:
+				mekanismgenerators-v5.0.8:
+				mekanismtools-v5.0.0.pre5.b2:
+				mekanismtools-v5.0.0.pre6.b2:
+				mekanismtools-v5.0.0.pre6.b3:
+				mekanismtools-v5.0.1:
+				mekanismtools-v5.0.2:
+				mekanismtools-v5.0.2_r2:
+				mekanismtools-v5.0.8:
+				mffs-v2.2.8.1.7:
+				mffs-v2.2.8.2.13:
+				mffs-v2.2.8.2.16:
+				powertools-v1.1.3.5:
+				powertools-v1.1.4.6:
+
+		undergroundbiomes:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v0.3.2b:
+
+		usefulfood:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.3.1:
+
+		voxelflight:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				1.4.2_mc1.3.2:
+
+		voxelget:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				0.5.5_mc1.2.3:
+				0.5.6.2_mc1.2.5:
+				0.5.6_mc1.2.4:
+				0.6.1_mc1.3.2:
+				0.6.1_mc1.3.2_1:
+
+		voxelmenu:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				1.3.2:
+				1.3.2_1:
+
+		voxelpacket:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				1.0.1_mc1.2.4:
+				1.0.1_mc1.2.5:
+				1.0.2_client_obf_mc1.2.3:
+				1.2_mc1.3.2:
+				1.2_mc1.3.2_1:
+
+		voxelplayer:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				0.6.1_mc1.2.4:
+				0.6.1_mc1.2.5:
+				0.7.1_mc1.3.2:
+				0.7.2_mc1.3.2:
+				v8.1.0:
+
+		voxelsnipergui:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.7:
+
+		voxeltextures:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				0.4.0_mc1.2.3:
+				0.4.1_mc1.2.4:
+				0.4.2_mc1.2.5:
+				0.4.3_mc1.2.5:
+				0.6.5_mc1.3.2:
+				0.6.8_mc1.3.2:
+
+		voxelworld:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v8.1.0:
+
+		wirelessredstone:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.4:
+				v1.5-1.2.5:
+				v1.5.1:
+				v1.5.2:
+				v1.5.3:
+				v1.5:
+
+		worldeditcui:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				1.3.2a_mc1.3.2_voxelmodpack_patched:
+				v1.0:
+				v1.1:
+				v1.2:
+				v1.2_mc1.2.4:
+
+		wrcbe:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.2.0:
+				v1.2.1:
+				v1.2.2.1:
+				v1.2.2.3:
+				v1.3.1.1:
+				v1.3.2.4:
+				v1.3.2.8:
+				v1.3.2:
+				addons-v1.3.1.2:
+				addons-v1.3.2.4:
+				addons-v1.3.2.8:
+				addons-v1.3.2:
+				redpower-v1.3.2.4:
+				redpower-v1.3.2.8:
+				redpower-v1.3.2:
+
+		xpbook:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				ssp-1.2.5:
+				v4:
+				v5:
+
+		xreliquary:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.05b:
+				v1.05d:
+
+		xycraft:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v0.10.18:
+				v0.9.44:
+
+		zeppelin:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.1.0.0.25:
+				v1.1.0.0.28:
+				v1.1.0.0.30:
+
+		zgravisuite:
+			name: ""
+			description: ""
+			installtype: "zip"
+			modtype: "content"
+			link: ""
+			versions:
+				v1.6:
+				v1.7:
+

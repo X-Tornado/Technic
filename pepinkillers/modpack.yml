@@ -10,90 +10,98 @@ builds:
         minecraft: 1.4.7
         forge: 534
         mods:
-            xreliquary: v1.05b
-            balkonsweaponmod: v1.10.3
-            usefulfood: v1.3.1
-            trialmix: v1.4.7v3
-            secretrooms: v4.5.0.190
-            pluginsforestry: build28
-            mystcraft: v0.10.0.00
-            mpowersuits: v2.0.45
-            gravitygun: v1.4.7v1
-            ee3: vpre1f
-            doubledoor: v4.5
-            chococraft: v2.5.3
-            buildcraft-valvepipeAM: v1.3.2
-            bibliocraft: v1.0.2
-            appeng: rv8
+            # alienvspredator: v2.9.7
+            # animalbikes: v1.4.6
+            appeng: rv9
+            # aurorarubealis: v101
+            # balkonsweaponmod: v1.10.3
+            basemods: pepin-v0.0.1
+            basepepin: pepin_base-v0.0.1
+            # battletowers: v1.4.6
+            bibliocraft: v1.1.0
+            # buildcraft-additionalpipes: v2.1.3.u40
+            # buildcraft-logisticspipes: v0.7.0.83
+            # buildcraft-objects: v0.9.6.73
+            # buildcraft-valvepipeAM: v1.3.2
             buildcraft: v3.4.3
-            buildcraft-additionalpipes: v2.1.3.u40
+            chargepads: v2.4.1.66
+            chickenchunks: v1.3.1.0
+            # chococraft: v2.5.3
+            # codechickencore: v0.7.3
+            cofhcore: v1.4.7.3
             computercraft: v1.5
+            configs: pepin-v0.0.2
+            # custommobspawner: v1.11
+            # doubledoor: v4.5
+            ee3: vpre1f
             enderstorage: v1.4.1.2
-            ic2: v1.115.218-lf
-            ic2-advancedmachines: v4.7
-            ic2-advancedsolarpanels: v3.3.2
+            extrabees: v1.5.0.6
+            extrabiomesxl: v3.10.0
+            factorization: v0.7.10
+            # flansmod-simpleparts: v1.1.0
+            # flansmod-ww2: v1.1.0
+            # flansmod: v2.1.1
+            flatbedrock: v1.0.3
+            forestry: v2.0.0.11
+            # forgeessentials: v1.1.0.248
+            forgeirc: v1.0.14
+            gravitygun: v1.4.7v2
+            gregtech: v2.81a
+            # guiapi: v0.15.2
+            ic2-advancedmachines: v4.7b
+            ic2-advancedsolarpanels: v3.3.3
             ic2-nuclearcontrol: v1.4.5
+            ic2: v1.115.231-lf
+            # idresolver: v1.4.6.1
+            immbiscore: v52.4.4
+            # invasion: v0.11.5
             inventorytweaks: v1.50
-            ironchests: v5.1.0.261
+            ironchests: v5.0.1.246
+            # legendarybeasts: v1.4.6
             mffs: v2.2.8.3.6
-            codechickencore: v0.7.3
-            nei: v1.4.7.0
-            nei-plugins: v1.0.4.1-CUSTOM
-            #nei-redpower: v1.4.3
-            powercrystalscore: v1.0.1
+            mfr: v2.2.0
+            # miscperipherals: v3.1b
+            # mobamputation: v1.4.6v1
+            # mobspawncontrol: v1.4.6.1
+            # mocreatures: v4.5.1
+            mozombies: v1.42
+            mpowersuits: v3.0.178
+            # mutantcreatures: v1.2.1
+            mystcraft: v0.10.0.00
+            nei-plugins: v1.0.4.5
+            nei-redpower: v1.4.6
+            # nei-thermalexpansion: v2.1.6
+            # nei: v1.4.7.0
+            netherores: v2.0.6
+            obsidiplates: v1.2.0.3
+            omnitools: v3.0.4
+            # parachute: v1.4.7
+            petrogen: v1.2.1
+            # pluginsforestry: build28
+            portalgun: v1.4.7v5
             powerconverters: v1.4.6
+            # powercrystalscore: v1.0.1
             rc: v6.17.0.0
             redpower: v2.0.6
-            reisminimap: v3.2_06
-            wrcbe: v1.3.2.8
+            # reisminimap: v3.2_06
+            # rp2brushwool: v1.4.6
+            secretrooms: v4.5.0.190
+            soulshards: v1.26
+            stevescarts: v2.0.0.a61
+            thaumcraft: v3.0.3
+            thaumicbees: v1.4.3a 
+            thermalexpansion: v2.2.2.2
+            # tinkers-construct: v1.0.7
+            # traincraft: v3.1.13_010
+            # trialmix: v1.4.7v3
+            # tropicraft: v1.4.6
+            tubestuff: v52.3.1
+            twilightforest: v1.15.4
+            # undergroundbiomes: v0.3.2b
+            # usefulfood: v1.3.1
+            zgravisuite: v1.7
             wrcbe-addons: v1.3.2.8
             wrcbe-redpower: v1.3.2.8
-            thaumcraft: v3.0.3
-            thermalexpansion: v2.2.2.2
-            nei-thermalexpansion: v2.1.6
-            stevescarts: v2.0.0.a61
-            chickenchunks: v1.3.1.0
-            factorization: v0.7.10
-            buildcraft-logisticspipes: v0.7.0.83
-            buildcraft-objects: v0.9.6.73
-            omnitools: v3.0.4
-            twilightforest: v1.14.0
-            chargepads: v2.3.0.58
-            soulshards: v1.26
-            portalgun: v1.4.7v2
-            #traincraft: v3.1.13_010
-            extrabiomesxl: v3.10.0
-            extrabees: v1.5.0.4
-            forestry: v2.0.0.11
-            miscperipherals: v3.1b
-            zgravisuite: v1.6
-            obsidiplates: v1.2.0.3
+            wrcbe: v1.3.2.8
+            xreliquary: v1.05d
             xycraft: v0.10.18
-            petrogen: v1.2.1
-            gregtech: v2.80c
-#            tropicraft: v1.4.6
-            parachute: v1.4.7
-            legendarybeasts: v1.4.6
-            mobamputation: v1.4.6v1
-#           guiapi: v0.15.2
-#           idresolver: v1.4.6.1
-            battletowers: v1.4.6
-            invasion: v0.11.5
-            thaumicbees: v1.4.3a
-#            rp2brushwool: v1.4.6
-            flansmod: v2.1.1
-            flansmod-ww2: v1.1.0
-            flansmod-simpleparts: v1.1.0
-#            custommobspawner: v1.11
-#            mocreatures: v4.5.1
-#            mutantcreatures: v1.2.1
-#            mobspawncontrol: v1.4.6.1
-#            alienvspredator: v2.9.7
-            aurorarubealis: v101
-#            undergroundbiomes: v0.3.2b
-            tinkers-construct: v1.0.7
-            forgeessentials: v1.1.0.248
-            animalbikes: v1.4.6
-            basepepin: pepin_base-v0.0.1
-            basemods: pepin-v0.0.1
-            configs: pepin-v0.0.2
