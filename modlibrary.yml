@@ -1,1835 +1,1835 @@
 mods:
-	CARuins:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.3.0:
-
-	IDResolver:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			1.4.6.1:
-
-	adventureitems:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1:
-			v1.2.3:
-			v1.2.5:
-
-	airships:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.2.3:
-			v1.2.5:
-			v2.5.1:
-
-	alienvspredator:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.9.7:
-
-	animalbikes:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.6:
-
-	appeng:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			rv8:
-			rv9:
-
-	armorstand:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1:
-			v1.2.3:
-			v1.2.5:
-
-	aurorarubealis:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v101:
-
-	balkonsweaponmod:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.10-1.4.6:
-			v1.10.3:
-			v1.10:
-			v8.1:
-			v8.2:
-			v8.3:
-			v8.4:
-			v8.5:
-			v8.6:
-
-	basemods:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			pepin-v0.0.1:
-			pepin_optifine-v0.0.1:
-			pepin_optifine_shaders-v0.0.1:
-
-	basepepin:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			pepin_base-v0.0.1:
-
-	battletowers:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1:
-			v1.2.3:
-			v1.2.5:
-			v1.4.6:
-
-	betterdungeons:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v0.91:
-			v0.92:
-			v0.921:
-			v0.922:
-			v0.923:
-			v0.925:
-			v0.931:
-			v0.932.1:
-
-	bettershelf:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.0.0:
-
-	bibliocraft:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.0.2:
-			v1.1.0:
-
-	buildcraft:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			A-3.4.3:
-			v2.2.11:
-			v2.2.12:
-			v2.2.13:
-			v2.2.14:
-			v2.2.7:
-			v3.1.2:
-			v3.1.3:
-			v3.1.4:
-			v3.1.4pre:
-			v3.1.5:
-			v3.1.8:
-			v3.2.0:
-			v3.2.2:
-			v3.3.0:
-			v3.4.0:
-			v3.4.3:
-			additionalpipes-v2.1.3.u28.b2:
-			additionalpipes-v2.1.3.u35:
-			additionalpipes-v2.1.3.u36:
-			additionalpipes-v2.1.3.u38:
-			additionalpipes-v2.1.3.u40:
-			additionalpipes-v2.1.3:
-			additionalpipes-v3.0.1:
-			additionalpipes-v3.0.10:
-			additionalpipes-v3.1.0:
-			additionalpipes-v3.1:
-			additionalpipes-v32.3:
-			additionalpipes-v34:
-			additionalpower-v0.1.1:
-			logisticspipes-v0.1.0a:
-			logisticspipes-v0.1.2a:
-			logisticspipes-v0.1.3a:
-			logisticspipes-v0.1.8a:
-			logisticspipes-v0.2.0b:
-			logisticspipes-v0.2.1A:
-			logisticspipes-v0.2.2a:
-			logisticspipes-v0.2.4a:
-			logisticspipes-v0.2.5b:
-			logisticspipes-v0.6.0.pre1:
-			logisticspipes-v0.6.0.pre2:
-			logisticspipes-v0.6.1.pre19:
-			logisticspipes-v0.6.9.32:
-			logisticspipes-v0.6.9.51:
-			logisticspipes-v0.7.0.75:
-			logisticspipes-v0.7.0.83:
-			logisticspipes-v0.7.0.pre2:
-			objects-v0.9.4.65:
-			objects-v0.9.6.73:
-			objects-v100:
-			objects-v56:
-			objects-v63:
-			objects-v84:
-			objects-v85:
-			valvepipeAM-v1.3.2:
-
-	ccsensors:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v017pr1:
-			v017pr2:
-
-	chargepads:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.3.0.58:
-			v2.4.1.66:
-
-	chargingbench:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.43:
-			v1.64-1:
-			v1.70-1:
-			v1.71-1:
-			v1.81-1:
-			v1.95b:
-
-	chickenchunks:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.2.1.0:
-			v1.2.1.1:
-			v1.3.1.0:
-
-	chococraft:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.5.3:
-
-	codechickencore:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v0.4.2:
-			v0.4.4:
-			v0.5.0:
-			v0.5.2:
-			v0.5.3:
-			v0.5.5:
-			v0.6.10:
-			v0.6.14:
-			v0.6.15:
-			v0.6.16:
-			v0.6.6.1:
-			v0.6.8.1:
-			v0.7.0.0:
-			v0.7.0.1:
-			v0.7.0.2:
-			v0.7.3:
-
-	cofhcore:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.7.3:
-
-	computercraft:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.2:
-			v1.21:
-			v1.3:
-			v1.31:
-			v1.33:
-			v1.4:
-			v1.41:
-			v1.46:
-			v1.47:
-			v1.481:
-			v1.5:
-
-	configs:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			pepin-v0.0.1:
-			pepin-v0.0.2:
-
-	craftguide:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.3.0:
-			v1.3.1:
-			v1.4.1:
-			v1.4.2:
-			v1.4.3:
-			v1.4.4:
-
-	craftingtableii:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.5:
-			v1.6.2-1.2.3:
-			v1.6.2:
-
-	craftingtableiii:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.8:
-
-	crystalwing:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.0.0:
-			v1.2.5.a:
-
-	custommobspawner:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.11:
-
-	dimanchor:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v3.2:
-			v51.0.2:
-			v51.0.4:
-			v52.0.6:
-			v52.1.1:
-
-	doorfix:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.1:
-
-	doubledoor:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v4.5:
-
-	ee:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v5.7.3:
-			v6.18:
-			v6.22:
-
-	ee2:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1:
-			v1.38.1:
-			v1.38:
-			v1.4.0.3:
-			v1.4.3.1:
-			v1.4.4.0:
-			v1.4.5.1:
-			v1.4.6.1:
-			v1.4.6.5:
-			v1.4.6.6:
-			v1.4.6.7:
-
-	ee3:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			vpre1:
-			vpre1d:
-			vpre1e:
-			vpre1f:
-
-	elementalcreepers:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.9:
-			v2.0:
-			v2.3r2_mp:
-
-	enderchest:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.0.1:
-			v1.0.1v2:
-			v1.0.2:
-			v1.0:
-
-	enderstorage:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1.0:
-			v1.1.1:
-			v1.1.3:
-			v1.2.1.3:
-			v1.2.1.6:
-			v1.2.1:
-			v1.3.0.3:
-			v1.3.0.4:
-			v1.3.1.0:
-			v1.3.1.1:
-			v1.4.1.2:
-
-	extrabees:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.9.12-pre:
-			v1.5.0.4:
-			v1.5.0.6:
-
-	extrabiomesxl:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.7-3.8.0:
-			v3.10.0:
-
-	factorization:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v0.7.10:
-			v0.7.7:
-
-	flansmod:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.1.1:
-			simpleparts-v1.1.0:
-			ww2-v1.1.0:
-
-	flatbedrock:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.0.3:
-
-	floatingruins:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.0.0:
-
-	floodgate:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1:
-
-	forestry:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.2.6.3:
-			v1.2.6.4:
-			v1.2.6.6:
-			v1.2.9.15:
-			v1.3.0.3:
-			v1.3.2.1:
-			v1.3.4.0:
-			v1.3.4.3:
-			v1.3.4.4:
-			v1.4.0.1:
-			v1.4.0.2:
-			v1.4.0.3:
-			v1.4.0.4:
-			v1.7.0.1:
-			v1.7.0.5:
-			v2.0.0.11:
-
-	forgeessentials:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1.0.248:
-
-	forgeirc:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.0.14:
-
-	gravitygun:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.7v1:
-			v1.4.7v2:
-
-	gregtech:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.75b:
-			v2.80c:
-			v2.81a:
-
-	guiapi:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v0.15.2:
-
-	ic2:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.103:
-			v1.108.71:
-			v1.109.113:
-			v1.110.137:
-			v1.112.170:
-			v1.115.218-lf:
-			v1.115.231-lf:
-			v1.42:
-			v1.43:
-			v1.64:
-			v1.70:
-			v1.71:
-			v1.81:
-			v1.95:
-			v1.95b:
-			v1.97:
-			advancedmachines-v3.1:
-			advancedmachines-v3.2_beta2:
-			advancedmachines-v3.6e:
-			advancedmachines-v4.0:
-			advancedmachines-v4.1:
-			advancedmachines-v4.4:
-			advancedmachines-v4.5:
-			advancedmachines-v4.6:
-			advancedmachines-v4.7:
-			advancedmachines-v4.7b:
-			advancedpowermanagement-v1.1.30:
-			advancedpowermanagement-v1.1.40:
-			advancedpowermanagement-v1.1.55:
-			advancedrepulsionsystems-v50.2.1:
-			advancedrepulsionsystems-v50.2.2:
-			advancedrepulsionsystems-v51.0.1:
-			advancedrepulsionsystems-v51.0.3:
-			advancedrepulsionsystems-v52.0.4:
-			advancedsolarpanels-v3.3.2:
-			advancedsolarpanels-v3.3.3:
-			compactsolars-v1.2:
-			compactsolars-v2.2.0.5:
-			compactsolars-v2.3.2.10:
-			compactsolars-v3.1.1.16:
-			compactsolars-v3.1.2.17:
-			compactsolars-v3.1.2.18:
-			compactsolars-v3.2.0.21:
-			nuclearcontrol-v1.1.10b:
-			nuclearcontrol-v1.1.3:
-			nuclearcontrol-v1.1.6:
-			nuclearcontrol-v1.1.8:
-			nuclearcontrol-v1.1.9b:
-			nuclearcontrol-v1.4.1:
-			nuclearcontrol-v1.4.3:
-			nuclearcontrol-v1.4.4b:
-			nuclearcontrol-v1.4.5:
-			transformers-v1.2:
-			transformers-v1.3:
-			transformers-v1.6:
-			transformers-v1.7:
-			transformers-v1.7b:
-
-	immibiscore:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v48.2.1:
-			v49.0.4:
-			v49.0.7:
-			v49.1.0:
-			v49.1.1:
-			v49.2.0:
-			v50.2.1:
-			v50.2.3:
-			v51.0.2:
-			v51.0.5:
-			v52.1.0:
-			v52.2.1:
-			v52.4.4:
-
-	ingameinfo:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.2.5.d:
-
-	invasion:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v0.11.5:
-
-	inventorytweaks:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.34b:
-			v1.35:
-			v1.36:
-			v1.37c:
-			v1.38:
-			v1.40b:
-			v1.41b:
-			v1.44:
-			v1.45:
-			v1.46:
-			v1.49:
-			v1.50:
-
-	ironchests:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.5:
-			v3.3.1.21:
-			v3.4.2.28:
-			v3.8.0.40:
-			v4.2.2.138:
-			v4.4.0.186:
-			v4.5.1.199:
-			v4.5.2.213:
-			v5.0.1.246:
-			v5.1.0.261:
-
-	lasermod:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.2:
-
-	lectern:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			ssp-1.2.5:
-
-	legendarybeasts:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.6:
-
-	macros:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			0.8.5_for_1.2.3:
-			0.8.6_for_1.2.4:
-			0.8.7_for_1.2.5:
-			0.9.2_for_1.3.2:
-			0.9.3.r2_for_1.3.2:
-
-	matmos:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			r10:
-			r8:
-			v11:
-			v12:
-			v20:
-			v8:
-
-	mffs:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.2.8.2.14:
-			v2.2.8.3.6:
-			v3:
-			v5:
-			v6:
-			v7:
-
-	mfr:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.0:
-			v1.4.0p:
-			v1.4.0p2:
-			v1.4.1_01:
-			v2.0.0:
-			v2.0.0rc5:
-			v2.0.1:
-			v2.0.4:
-			v2.2.0:
-
-	millenaire:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.0.7:
-			v2.0.9:
-			v2.0:
-			v2.1.2:
-			v2.1.5:
-			v2.1.6:
-			v2.1:
-			v2.2.1:
-			v2.2.4:
-			v2.2.5:
-			v2.2.8:
-			v2.2:
-			v2.3.1:
-			v2.3.2:
-			v2.4.2:
-			v2.4.4:
-			v2.4.6:
-			v2.5.2:
-			v2.5.4:
-			v2.5.9:
-			v2.7.4:
-
-	minaptics:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			1.2.3r12vbox:
-			1.2.4r13vbox:
-
-	minecolony:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v17.1yb:
-			v17yb:
-			v19yb:
-
-	minecraftconsole:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1:
-			v1.2:
-
-	minions:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1:
-			v1.2.3:
-			v1.2.5:
-
-	miscperipherals:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.3:
-			v3.1b:
-
-	mobamputation:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.6v1:
-
-	mobspawncontrol:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.6.1:
-
-	mocreatures:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v4.5.1:
-
-	morefuel:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.7:
-
-	mozombies:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.42:
-
-	mpowersuits:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.0.45:
-			v3.0.178:
-
-	mutantcreatures:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.2.1:
-
-	mystcraft:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v0.10.0.00:
-			v0.9.4.00:
-			v0.9.4.05:
-			v0.9.5.00:
-
-	nei:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.2.0:
-			v1.2.1:
-			v1.2.2.2:
-			v1.2.2:
-			v1.4.1.1:
-			v1.4.1.2:
-			v1.4.2.7:
-			v1.4.2:
-			v1.4.3.3:
-			v1.4.3.4:
-			v1.4.4.0:
-			v1.4.5.0:
-			v1.4.7.0:
-			buildcraft-v1.0.0.1:
-			buildcraft-v1.2.0.8:
-			ic2-burn-v1.0:
-			ic2-v1.0.0.0:
-			plugins-v1.0.2.2:
-			plugins-v1.0.3.5:
-			plugins-v1.0.3.6:
-			plugins-v1.0.4.1-CUSTOM:
-			plugins-v1.0.4.1:
-			plugins-v1.0.4.5:
-			rc-v1.2.2.2:
-			rc-v1.2.2.3:
-			rc-v1.5.0.10:
-			redpower-v1.2.2.3:
-			redpower-v1.4.3:
-			redpower-v1.4.6:
-			thaumcraft-v1.0.6.15:
-			thermalexpansion-v2.1.6:
-
-	netherores:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1.0:
-			v1.1.2:
-			v1.2.1:
-			v1.4.2:
-			v1.4.6:
-			v2.0.2:
-			v2.0.6:
-
-	obsidiplates:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.2.0.3:
-
-	omnitools:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.2.3:
-			v2.2.5:
-			v3.0.4:
-
-	omniwrench:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			pr1:
-
-	parachute:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.7:
-
-	petrogen:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1:
-			v1.2.1:
-
-	pfaeff:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1:
-
-	pluginsforestry:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			build28:
-
-	portalgun:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.7v2:
-			v1.4.7v5:
-
-	powerconverters:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.3.0p2:
-			v1.3.1_01:
-			v1.3.4:
-			v1.4.6:
-
-	powercrystalscore:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.0.0:
-			v1.0.1:
-
-	rc:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.1.1:
-			v2.2.1:
-			v3.0.0:
-			v3.2.1:
-			v3.3.1:
-			v3.4.0:
-			v3.4.2:
-			v4.1.4:
-			v5.0.3:
-			v5.1.0:
-			v5.2.0:
-			v5.2.4:
-			v5.3.2:
-			v5.3.3:
-			v5.4.7:
-			v5.4.7b:
-			v6.10.0.0:
-			v6.12.0.0:
-			v6.12.1.0:
-			v6.12.2.0:
-			v6.13.1.0:
-			v6.17.0.0:
-			v6.7.0.0:
-			v6.8.0.0:
-			v6.9.0.0:
-
-	recipehelper:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v4:
-
-	redpower:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.0.4b:
-			v2.0.4c:
-			v2.0.4d:
-			v2.0.4e:
-			v2.0.5:
-			v2.0.5b1:
-			v2.0.5b2:
-			v2.0.6:
-
-	redstoneremote:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1.0:
-
-	reisminimap:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v2.9.01:
-			v2.9:
-			v3.0:
-			v3.0_01:
-			v3.0_03:
-			v3.0_04-1.2.5:
-			v3.0_04:
-			v3.2_03:
-			v3.2_04:
-			v3.2_05:
-			v3.2_06:
-
-	ropeplus:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1:
-			v1.1yb:
-			v1.2.3yb:
-			v1.2.5yb:
-
-	rp2brushwool:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.6:
-
-	secretrooms:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v4.5.0.190:
-
-	sensibleenchanting:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v4.9:
-
-	shelf:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1:
-			v1.2.3:
-
-	smartmoving:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v8.5:
-
-	somnia:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v21:
-			v23:
-			v24:
-
-	soulshards:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.26:
-
-	startinginventory:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.0.0:
-			v1.2.5.a:
-
-	stevescarts:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.5.0:
-			v2.0.0.a14:
-			v2.0.0.a19:
-			v2.0.0.a20:
-			v2.0.0.a30:
-			v2.0.0.a37:
-			v2.0.0.a40:
-			v2.0.0.a41:
-			v2.0.0.a42:
-			v2.0.0.a61:
-
-	thaumcraft:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.0.3:
-			v1.1:
-			v1.2.1:
-			v1.2.3:
-			v1.2.4bc2:
-			v1.2.4bc3:
-			v1.2.5bc3:
-			v1.2.6:
-			v2.0.1:
-			v2.0.2:
-			v2.0:
-			v2.1.0:
-			v2.1.1:
-			v2.1.3b:
-			v2.1.6c:
-			v2.1.6d:
-			v3.0.1c:
-			v3.0.3:
-
-	thaumicbees:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1.702-67:
-			v1.4.3a:
-
-	thermalexpansion:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.0.3:
-			v1.0.4.1:
-			v1.0.4.2:
-			v1.0.4:
-			v2.0.0:
-			v2.0.1:
-			v2.0.2:
-			v2.0.3:
-			v2.0.4:
-			v2.0.9:
-			v2.1.3:
-			v2.1.4:
-			v2.1.5:
-			v2.1.6:
-			v2.2.2.2:
-
-	tinkers:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			construct-v1.0.7:
-
-	tok:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.3.0.2:
-			v1.3.0.3:
-
-	tomes:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			ssp-1.2.5:
-			v3:
-			v4:
-
-	traincraft:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v3.1.13_010:
-
-	treecapitator:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.0.0:
-			v1.1:
-			v1.2.3.b:
-			v1.2.5.e:
-			v1.4.2.r03:
-			v1.4.5.r02:
-			v1.4.5.r03:
-			v1.4.6.r01:
-			v1.4.6.r03:
-
-	trialmix:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.7v3:
-
-	tropicraft:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4.6:
-
-	tubestuff:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v48.2.1:
-			v49.0.5:
-			v49.0.7:
-			v49.1.0:
-			v49.1.1:
-			v49.1.2:
-			v49.2.0:
-			v50.1.0:
-			v50.1.2:
-			v51.0.3:
-			v52.0.7:
-			v52.0.8:
-			v52.3.1:
-
-	turretmod:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.3.2:
-
-	twilightforest:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.14.0:
-			v1.15.4:
-			v1.6r2:
-			v1.7.1:
-
-	ue:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			assemblyline-v0.1.3.13:
-			assemblyline-v0.1.8.30:
-			assemblyline-v0.1.9.35:
-			assemblyline-v0.2.0.38:
-			assemblyline-v0.2.1.40:
-			assemblyline-v0.2.2.44:
-			atomicscience-v0.2.6.93:
-			atomicscience-v0.3.0.121:
-			atomicscience-v0.3.0.122:
-			atomicscience-v0.3.1.123:
-			atomicscience-v0.3.2.127:
-			basiccomponents-v1.1.3.278:
-			basiccomponents-v1.2.1.317:
-			basiccomponents-v1.2.2.327:
-			basicpipes-v2.2.1:
-			electricexpansion-v0.4.0:
-			electricexpansion-v1.0.2:
-			electricexpansion-v1.0.3:
-			electricexpansion-v1.0.4:
-			electricexpansion-v1.0.6:
-			electricexpansion-v1.2.5:
-			electricexpansion-v1.2.6:
-			hawksmachinery-v1.0.0PRE4:
-			icbm-v0.6.3.70:
-			icbm-v1.0.0.115:
-			icbm-v1.0.0.119:
-			icbm-v1.0.1.123:
-			mekanism-v5.0.0.pre5.b2:
-			mekanism-v5.0.0.pre6.b2:
-			mekanism-v5.0.0.pre6.b3:
-			mekanism-v5.0.1:
-			mekanism-v5.0.2:
-			mekanism-v5.0.2_r2:
-			mekanism-v5.0.8:
-			mekanismgenerators-v5.0.0.pre5.b2:
-			mekanismgenerators-v5.0.0.pre6.b2:
-			mekanismgenerators-v5.0.0.pre6.b3:
-			mekanismgenerators-v5.0.1:
-			mekanismgenerators-v5.0.2:
-			mekanismgenerators-v5.0.2_r2:
-			mekanismgenerators-v5.0.8:
-			mekanismtools-v5.0.0.pre5.b2:
-			mekanismtools-v5.0.0.pre6.b2:
-			mekanismtools-v5.0.0.pre6.b3:
-			mekanismtools-v5.0.1:
-			mekanismtools-v5.0.2:
-			mekanismtools-v5.0.2_r2:
-			mekanismtools-v5.0.8:
-			mffs-v2.2.8.1.7:
-			mffs-v2.2.8.2.13:
-			mffs-v2.2.8.2.16:
-			powertools-v1.1.3.5:
-			powertools-v1.1.4.6:
-
-	undergroundbiomes:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v0.3.2b:
-
-	usefulfood:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.3.1:
-
-	voxelflight:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			1.4.2_mc1.3.2:
-
-	voxelget:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			0.5.5_mc1.2.3:
-			0.5.6.2_mc1.2.5:
-			0.5.6_mc1.2.4:
-			0.6.1_mc1.3.2:
-			0.6.1_mc1.3.2_1:
-
-	voxelmenu:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			1.3.2:
-			1.3.2_1:
-
-	voxelpacket:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			1.0.1_mc1.2.4:
-			1.0.1_mc1.2.5:
-			1.0.2_client_obf_mc1.2.3:
-			1.2_mc1.3.2:
-			1.2_mc1.3.2_1:
-
-	voxelplayer:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			0.6.1_mc1.2.4:
-			0.6.1_mc1.2.5:
-			0.7.1_mc1.3.2:
-			0.7.2_mc1.3.2:
-			v8.1.0:
-
-	voxelsnipergui:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.7:
-
-	voxeltextures:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			0.4.0_mc1.2.3:
-			0.4.1_mc1.2.4:
-			0.4.2_mc1.2.5:
-			0.4.3_mc1.2.5:
-			0.6.5_mc1.3.2:
-			0.6.8_mc1.3.2:
-
-	voxelworld:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v8.1.0:
-
-	wirelessredstone:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.4:
-			v1.5-1.2.5:
-			v1.5.1:
-			v1.5.2:
-			v1.5.3:
-			v1.5:
-
-	worldeditcui:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			1.3.2a_mc1.3.2_voxelmodpack_patched:
-			v1.0:
-			v1.1:
-			v1.2:
-			v1.2_mc1.2.4:
-
-	wrcbe:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.2.0:
-			v1.2.1:
-			v1.2.2.1:
-			v1.2.2.3:
-			v1.3.1.1:
-			v1.3.2.4:
-			v1.3.2.8:
-			v1.3.2:
-			addons-v1.3.1.2:
-			addons-v1.3.2.4:
-			addons-v1.3.2.8:
-			addons-v1.3.2:
-			redpower-v1.3.2.4:
-			redpower-v1.3.2.8:
-			redpower-v1.3.2:
-
-	xpbook:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			ssp-1.2.5:
-			v4:
-			v5:
-
-	xreliquary:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.05b:
-			v1.05d:
-
-	xycraft:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v0.10.18:
-			v0.9.44:
-
-	zeppelin:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.1.0.0.25:
-			v1.1.0.0.28:
-			v1.1.0.0.30:
-
-	zgravisuite:
-		name: ""
-		description: ""
-		installtype: "zip"
-		modtype: "content"
-		link: ""
-		versions:
-			v1.6:
-			v1.7:
+    CARuins:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.3.0:
+
+    IDResolver:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            1.4.6.1:
+
+    adventureitems:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1:
+            v1.2.3:
+            v1.2.5:
+
+    airships:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.2.3:
+            v1.2.5:
+            v2.5.1:
+
+    alienvspredator:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.9.7:
+
+    animalbikes:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.6:
+
+    appeng:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            rv8:
+            rv9:
+
+    armorstand:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1:
+            v1.2.3:
+            v1.2.5:
+
+    aurorarubealis:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v101:
+
+    balkonsweaponmod:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.10-1.4.6:
+            v1.10.3:
+            v1.10:
+            v8.1:
+            v8.2:
+            v8.3:
+            v8.4:
+            v8.5:
+            v8.6:
+
+    basemods:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            pepin-v0.0.1:
+            pepin_optifine-v0.0.1:
+            pepin_optifine_shaders-v0.0.1:
+
+    basepepin:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            pepin_base-v0.0.1:
+
+    battletowers:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1:
+            v1.2.3:
+            v1.2.5:
+            v1.4.6:
+
+    betterdungeons:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v0.91:
+            v0.92:
+            v0.921:
+            v0.922:
+            v0.923:
+            v0.925:
+            v0.931:
+            v0.932.1:
+
+    bettershelf:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.0:
+
+    bibliocraft:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.2:
+            v1.1.0:
+
+    buildcraft:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            A-3.4.3:
+            v2.2.11:
+            v2.2.12:
+            v2.2.13:
+            v2.2.14:
+            v2.2.7:
+            v3.1.2:
+            v3.1.3:
+            v3.1.4:
+            v3.1.4pre:
+            v3.1.5:
+            v3.1.8:
+            v3.2.0:
+            v3.2.2:
+            v3.3.0:
+            v3.4.0:
+            v3.4.3:
+            additionalpipes-v2.1.3.u28.b2:
+            additionalpipes-v2.1.3.u35:
+            additionalpipes-v2.1.3.u36:
+            additionalpipes-v2.1.3.u38:
+            additionalpipes-v2.1.3.u40:
+            additionalpipes-v2.1.3:
+            additionalpipes-v3.0.1:
+            additionalpipes-v3.0.10:
+            additionalpipes-v3.1.0:
+            additionalpipes-v3.1:
+            additionalpipes-v32.3:
+            additionalpipes-v34:
+            additionalpower-v0.1.1:
+            logisticspipes-v0.1.0a:
+            logisticspipes-v0.1.2a:
+            logisticspipes-v0.1.3a:
+            logisticspipes-v0.1.8a:
+            logisticspipes-v0.2.0b:
+            logisticspipes-v0.2.1A:
+            logisticspipes-v0.2.2a:
+            logisticspipes-v0.2.4a:
+            logisticspipes-v0.2.5b:
+            logisticspipes-v0.6.0.pre1:
+            logisticspipes-v0.6.0.pre2:
+            logisticspipes-v0.6.1.pre19:
+            logisticspipes-v0.6.9.32:
+            logisticspipes-v0.6.9.51:
+            logisticspipes-v0.7.0.75:
+            logisticspipes-v0.7.0.83:
+            logisticspipes-v0.7.0.pre2:
+            objects-v0.9.4.65:
+            objects-v0.9.6.73:
+            objects-v100:
+            objects-v56:
+            objects-v63:
+            objects-v84:
+            objects-v85:
+            valvepipeAM-v1.3.2:
+
+    ccsensors:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v017pr1:
+            v017pr2:
+
+    chargepads:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.3.0.58:
+            v2.4.1.66:
+
+    chargingbench:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.43:
+            v1.64-1:
+            v1.70-1:
+            v1.71-1:
+            v1.81-1:
+            v1.95b:
+
+    chickenchunks:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.2.1.0:
+            v1.2.1.1:
+            v1.3.1.0:
+
+    chococraft:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.5.3:
+
+    codechickencore:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v0.4.2:
+            v0.4.4:
+            v0.5.0:
+            v0.5.2:
+            v0.5.3:
+            v0.5.5:
+            v0.6.10:
+            v0.6.14:
+            v0.6.15:
+            v0.6.16:
+            v0.6.6.1:
+            v0.6.8.1:
+            v0.7.0.0:
+            v0.7.0.1:
+            v0.7.0.2:
+            v0.7.3:
+
+    cofhcore:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.7.3:
+
+    computercraft:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.2:
+            v1.21:
+            v1.3:
+            v1.31:
+            v1.33:
+            v1.4:
+            v1.41:
+            v1.46:
+            v1.47:
+            v1.481:
+            v1.5:
+
+    configs:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            pepin-v0.0.1:
+            pepin-v0.0.2:
+
+    craftguide:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.3.0:
+            v1.3.1:
+            v1.4.1:
+            v1.4.2:
+            v1.4.3:
+            v1.4.4:
+
+    craftingtableii:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.5:
+            v1.6.2-1.2.3:
+            v1.6.2:
+
+    craftingtableiii:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.8:
+
+    crystalwing:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.0:
+            v1.2.5.a:
+
+    custommobspawner:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.11:
+
+    dimanchor:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v3.2:
+            v51.0.2:
+            v51.0.4:
+            v52.0.6:
+            v52.1.1:
+
+    doorfix:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.1:
+
+    doubledoor:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v4.5:
+
+    ee:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v5.7.3:
+            v6.18:
+            v6.22:
+
+    ee2:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1:
+            v1.38.1:
+            v1.38:
+            v1.4.0.3:
+            v1.4.3.1:
+            v1.4.4.0:
+            v1.4.5.1:
+            v1.4.6.1:
+            v1.4.6.5:
+            v1.4.6.6:
+            v1.4.6.7:
+
+    ee3:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            vpre1:
+            vpre1d:
+            vpre1e:
+            vpre1f:
+
+    elementalcreepers:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.9:
+            v2.0:
+            v2.3r2_mp:
+
+    enderchest:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.1:
+            v1.0.1v2:
+            v1.0.2:
+            v1.0:
+
+    enderstorage:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1.0:
+            v1.1.1:
+            v1.1.3:
+            v1.2.1.3:
+            v1.2.1.6:
+            v1.2.1:
+            v1.3.0.3:
+            v1.3.0.4:
+            v1.3.1.0:
+            v1.3.1.1:
+            v1.4.1.2:
+
+    extrabees:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.9.12-pre:
+            v1.5.0.4:
+            v1.5.0.6:
+
+    extrabiomesxl:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.7-3.8.0:
+            v3.10.0:
+
+    factorization:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v0.7.10:
+            v0.7.7:
+
+    flansmod:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.1.1:
+            simpleparts-v1.1.0:
+            ww2-v1.1.0:
+
+    flatbedrock:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.3:
+
+    floatingruins:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.0:
+
+    floodgate:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1:
+
+    forestry:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.2.6.3:
+            v1.2.6.4:
+            v1.2.6.6:
+            v1.2.9.15:
+            v1.3.0.3:
+            v1.3.2.1:
+            v1.3.4.0:
+            v1.3.4.3:
+            v1.3.4.4:
+            v1.4.0.1:
+            v1.4.0.2:
+            v1.4.0.3:
+            v1.4.0.4:
+            v1.7.0.1:
+            v1.7.0.5:
+            v2.0.0.11:
+
+    forgeessentials:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1.0.248:
+
+    forgeirc:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.14:
+
+    gravitygun:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.7v1:
+            v1.4.7v2:
+
+    gregtech:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.75b:
+            v2.80c:
+            v2.81a:
+
+    guiapi:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v0.15.2:
+
+    ic2:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.103:
+            v1.108.71:
+            v1.109.113:
+            v1.110.137:
+            v1.112.170:
+            v1.115.218-lf:
+            v1.115.231-lf:
+            v1.42:
+            v1.43:
+            v1.64:
+            v1.70:
+            v1.71:
+            v1.81:
+            v1.95:
+            v1.95b:
+            v1.97:
+            advancedmachines-v3.1:
+            advancedmachines-v3.2_beta2:
+            advancedmachines-v3.6e:
+            advancedmachines-v4.0:
+            advancedmachines-v4.1:
+            advancedmachines-v4.4:
+            advancedmachines-v4.5:
+            advancedmachines-v4.6:
+            advancedmachines-v4.7:
+            advancedmachines-v4.7b:
+            advancedpowermanagement-v1.1.30:
+            advancedpowermanagement-v1.1.40:
+            advancedpowermanagement-v1.1.55:
+            advancedrepulsionsystems-v50.2.1:
+            advancedrepulsionsystems-v50.2.2:
+            advancedrepulsionsystems-v51.0.1:
+            advancedrepulsionsystems-v51.0.3:
+            advancedrepulsionsystems-v52.0.4:
+            advancedsolarpanels-v3.3.2:
+            advancedsolarpanels-v3.3.3:
+            compactsolars-v1.2:
+            compactsolars-v2.2.0.5:
+            compactsolars-v2.3.2.10:
+            compactsolars-v3.1.1.16:
+            compactsolars-v3.1.2.17:
+            compactsolars-v3.1.2.18:
+            compactsolars-v3.2.0.21:
+            nuclearcontrol-v1.1.10b:
+            nuclearcontrol-v1.1.3:
+            nuclearcontrol-v1.1.6:
+            nuclearcontrol-v1.1.8:
+            nuclearcontrol-v1.1.9b:
+            nuclearcontrol-v1.4.1:
+            nuclearcontrol-v1.4.3:
+            nuclearcontrol-v1.4.4b:
+            nuclearcontrol-v1.4.5:
+            transformers-v1.2:
+            transformers-v1.3:
+            transformers-v1.6:
+            transformers-v1.7:
+            transformers-v1.7b:
+
+    immibiscore:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v48.2.1:
+            v49.0.4:
+            v49.0.7:
+            v49.1.0:
+            v49.1.1:
+            v49.2.0:
+            v50.2.1:
+            v50.2.3:
+            v51.0.2:
+            v51.0.5:
+            v52.1.0:
+            v52.2.1:
+            v52.4.4:
+
+    ingameinfo:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.2.5.d:
+
+    invasion:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v0.11.5:
+
+    inventorytweaks:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.34b:
+            v1.35:
+            v1.36:
+            v1.37c:
+            v1.38:
+            v1.40b:
+            v1.41b:
+            v1.44:
+            v1.45:
+            v1.46:
+            v1.49:
+            v1.50:
+
+    ironchests:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.5:
+            v3.3.1.21:
+            v3.4.2.28:
+            v3.8.0.40:
+            v4.2.2.138:
+            v4.4.0.186:
+            v4.5.1.199:
+            v4.5.2.213:
+            v5.0.1.246:
+            v5.1.0.261:
+
+    lasermod:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.2:
+
+    lectern:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            ssp-1.2.5:
+
+    legendarybeasts:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.6:
+
+    macros:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            0.8.5_for_1.2.3:
+            0.8.6_for_1.2.4:
+            0.8.7_for_1.2.5:
+            0.9.2_for_1.3.2:
+            0.9.3.r2_for_1.3.2:
+
+    matmos:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            r10:
+            r8:
+            v11:
+            v12:
+            v20:
+            v8:
+
+    mffs:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.2.8.2.14:
+            v2.2.8.3.6:
+            v3:
+            v5:
+            v6:
+            v7:
+
+    mfr:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.0:
+            v1.4.0p:
+            v1.4.0p2:
+            v1.4.1_01:
+            v2.0.0:
+            v2.0.0rc5:
+            v2.0.1:
+            v2.0.4:
+            v2.2.0:
+
+    millenaire:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.0.7:
+            v2.0.9:
+            v2.0:
+            v2.1.2:
+            v2.1.5:
+            v2.1.6:
+            v2.1:
+            v2.2.1:
+            v2.2.4:
+            v2.2.5:
+            v2.2.8:
+            v2.2:
+            v2.3.1:
+            v2.3.2:
+            v2.4.2:
+            v2.4.4:
+            v2.4.6:
+            v2.5.2:
+            v2.5.4:
+            v2.5.9:
+            v2.7.4:
+
+    minaptics:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            1.2.3r12vbox:
+            1.2.4r13vbox:
+
+    minecolony:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v17.1yb:
+            v17yb:
+            v19yb:
+
+    minecraftconsole:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1:
+            v1.2:
+
+    minions:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1:
+            v1.2.3:
+            v1.2.5:
+
+    miscperipherals:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.3:
+            v3.1b:
+
+    mobamputation:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.6v1:
+
+    mobspawncontrol:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.6.1:
+
+    mocreatures:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v4.5.1:
+
+    morefuel:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.7:
+
+    mozombies:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.42:
+
+    mpowersuits:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.0.45:
+            v3.0.178:
+
+    mutantcreatures:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.2.1:
+
+    mystcraft:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v0.10.0.00:
+            v0.9.4.00:
+            v0.9.4.05:
+            v0.9.5.00:
+
+    nei:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.2.0:
+            v1.2.1:
+            v1.2.2.2:
+            v1.2.2:
+            v1.4.1.1:
+            v1.4.1.2:
+            v1.4.2.7:
+            v1.4.2:
+            v1.4.3.3:
+            v1.4.3.4:
+            v1.4.4.0:
+            v1.4.5.0:
+            v1.4.7.0:
+            buildcraft-v1.0.0.1:
+            buildcraft-v1.2.0.8:
+            ic2-burn-v1.0:
+            ic2-v1.0.0.0:
+            plugins-v1.0.2.2:
+            plugins-v1.0.3.5:
+            plugins-v1.0.3.6:
+            plugins-v1.0.4.1-CUSTOM:
+            plugins-v1.0.4.1:
+            plugins-v1.0.4.5:
+            rc-v1.2.2.2:
+            rc-v1.2.2.3:
+            rc-v1.5.0.10:
+            redpower-v1.2.2.3:
+            redpower-v1.4.3:
+            redpower-v1.4.6:
+            thaumcraft-v1.0.6.15:
+            thermalexpansion-v2.1.6:
+
+    netherores:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1.0:
+            v1.1.2:
+            v1.2.1:
+            v1.4.2:
+            v1.4.6:
+            v2.0.2:
+            v2.0.6:
+
+    obsidiplates:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.2.0.3:
+
+    omnitools:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.2.3:
+            v2.2.5:
+            v3.0.4:
+
+    omniwrench:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            pr1:
+
+    parachute:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.7:
+
+    petrogen:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1:
+            v1.2.1:
+
+    pfaeff:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1:
+
+    pluginsforestry:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            build28:
+
+    portalgun:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.7v2:
+            v1.4.7v5:
+
+    powerconverters:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.3.0p2:
+            v1.3.1_01:
+            v1.3.4:
+            v1.4.6:
+
+    powercrystalscore:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.0:
+            v1.0.1:
+
+    rc:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.1.1:
+            v2.2.1:
+            v3.0.0:
+            v3.2.1:
+            v3.3.1:
+            v3.4.0:
+            v3.4.2:
+            v4.1.4:
+            v5.0.3:
+            v5.1.0:
+            v5.2.0:
+            v5.2.4:
+            v5.3.2:
+            v5.3.3:
+            v5.4.7:
+            v5.4.7b:
+            v6.10.0.0:
+            v6.12.0.0:
+            v6.12.1.0:
+            v6.12.2.0:
+            v6.13.1.0:
+            v6.17.0.0:
+            v6.7.0.0:
+            v6.8.0.0:
+            v6.9.0.0:
+
+    recipehelper:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v4:
+
+    redpower:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.0.4b:
+            v2.0.4c:
+            v2.0.4d:
+            v2.0.4e:
+            v2.0.5:
+            v2.0.5b1:
+            v2.0.5b2:
+            v2.0.6:
+
+    redstoneremote:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1.0:
+
+    reisminimap:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v2.9.01:
+            v2.9:
+            v3.0:
+            v3.0_01:
+            v3.0_03:
+            v3.0_04-1.2.5:
+            v3.0_04:
+            v3.2_03:
+            v3.2_04:
+            v3.2_05:
+            v3.2_06:
+
+    ropeplus:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1:
+            v1.1yb:
+            v1.2.3yb:
+            v1.2.5yb:
+
+    rp2brushwool:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.6:
+
+    secretrooms:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v4.5.0.190:
+
+    sensibleenchanting:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v4.9:
+
+    shelf:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1:
+            v1.2.3:
+
+    smartmoving:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v8.5:
+
+    somnia:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v21:
+            v23:
+            v24:
+
+    soulshards:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.26:
+
+    startinginventory:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.0:
+            v1.2.5.a:
+
+    stevescarts:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.5.0:
+            v2.0.0.a14:
+            v2.0.0.a19:
+            v2.0.0.a20:
+            v2.0.0.a30:
+            v2.0.0.a37:
+            v2.0.0.a40:
+            v2.0.0.a41:
+            v2.0.0.a42:
+            v2.0.0.a61:
+
+    thaumcraft:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.3:
+            v1.1:
+            v1.2.1:
+            v1.2.3:
+            v1.2.4bc2:
+            v1.2.4bc3:
+            v1.2.5bc3:
+            v1.2.6:
+            v2.0.1:
+            v2.0.2:
+            v2.0:
+            v2.1.0:
+            v2.1.1:
+            v2.1.3b:
+            v2.1.6c:
+            v2.1.6d:
+            v3.0.1c:
+            v3.0.3:
+
+    thaumicbees:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1.702-67:
+            v1.4.3a:
+
+    thermalexpansion:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.3:
+            v1.0.4.1:
+            v1.0.4.2:
+            v1.0.4:
+            v2.0.0:
+            v2.0.1:
+            v2.0.2:
+            v2.0.3:
+            v2.0.4:
+            v2.0.9:
+            v2.1.3:
+            v2.1.4:
+            v2.1.5:
+            v2.1.6:
+            v2.2.2.2:
+
+    tinkers:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            construct-v1.0.7:
+
+    tok:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.3.0.2:
+            v1.3.0.3:
+
+    tomes:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            ssp-1.2.5:
+            v3:
+            v4:
+
+    traincraft:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v3.1.13_010:
+
+    treecapitator:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.0:
+            v1.1:
+            v1.2.3.b:
+            v1.2.5.e:
+            v1.4.2.r03:
+            v1.4.5.r02:
+            v1.4.5.r03:
+            v1.4.6.r01:
+            v1.4.6.r03:
+
+    trialmix:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.7v3:
+
+    tropicraft:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4.6:
+
+    tubestuff:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v48.2.1:
+            v49.0.5:
+            v49.0.7:
+            v49.1.0:
+            v49.1.1:
+            v49.1.2:
+            v49.2.0:
+            v50.1.0:
+            v50.1.2:
+            v51.0.3:
+            v52.0.7:
+            v52.0.8:
+            v52.3.1:
+
+    turretmod:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.3.2:
+
+    twilightforest:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.14.0:
+            v1.15.4:
+            v1.6r2:
+            v1.7.1:
+
+    ue:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            assemblyline-v0.1.3.13:
+            assemblyline-v0.1.8.30:
+            assemblyline-v0.1.9.35:
+            assemblyline-v0.2.0.38:
+            assemblyline-v0.2.1.40:
+            assemblyline-v0.2.2.44:
+            atomicscience-v0.2.6.93:
+            atomicscience-v0.3.0.121:
+            atomicscience-v0.3.0.122:
+            atomicscience-v0.3.1.123:
+            atomicscience-v0.3.2.127:
+            basiccomponents-v1.1.3.278:
+            basiccomponents-v1.2.1.317:
+            basiccomponents-v1.2.2.327:
+            basicpipes-v2.2.1:
+            electricexpansion-v0.4.0:
+            electricexpansion-v1.0.2:
+            electricexpansion-v1.0.3:
+            electricexpansion-v1.0.4:
+            electricexpansion-v1.0.6:
+            electricexpansion-v1.2.5:
+            electricexpansion-v1.2.6:
+            hawksmachinery-v1.0.0PRE4:
+            icbm-v0.6.3.70:
+            icbm-v1.0.0.115:
+            icbm-v1.0.0.119:
+            icbm-v1.0.1.123:
+            mekanism-v5.0.0.pre5.b2:
+            mekanism-v5.0.0.pre6.b2:
+            mekanism-v5.0.0.pre6.b3:
+            mekanism-v5.0.1:
+            mekanism-v5.0.2:
+            mekanism-v5.0.2_r2:
+            mekanism-v5.0.8:
+            mekanismgenerators-v5.0.0.pre5.b2:
+            mekanismgenerators-v5.0.0.pre6.b2:
+            mekanismgenerators-v5.0.0.pre6.b3:
+            mekanismgenerators-v5.0.1:
+            mekanismgenerators-v5.0.2:
+            mekanismgenerators-v5.0.2_r2:
+            mekanismgenerators-v5.0.8:
+            mekanismtools-v5.0.0.pre5.b2:
+            mekanismtools-v5.0.0.pre6.b2:
+            mekanismtools-v5.0.0.pre6.b3:
+            mekanismtools-v5.0.1:
+            mekanismtools-v5.0.2:
+            mekanismtools-v5.0.2_r2:
+            mekanismtools-v5.0.8:
+            mffs-v2.2.8.1.7:
+            mffs-v2.2.8.2.13:
+            mffs-v2.2.8.2.16:
+            powertools-v1.1.3.5:
+            powertools-v1.1.4.6:
+
+    undergroundbiomes:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v0.3.2b:
+
+    usefulfood:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.3.1:
+
+    voxelflight:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            1.4.2_mc1.3.2:
+
+    voxelget:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            0.5.5_mc1.2.3:
+            0.5.6.2_mc1.2.5:
+            0.5.6_mc1.2.4:
+            0.6.1_mc1.3.2:
+            0.6.1_mc1.3.2_1:
+
+    voxelmenu:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            1.3.2:
+            1.3.2_1:
+
+    voxelpacket:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            1.0.1_mc1.2.4:
+            1.0.1_mc1.2.5:
+            1.0.2_client_obf_mc1.2.3:
+            1.2_mc1.3.2:
+            1.2_mc1.3.2_1:
+
+    voxelplayer:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            0.6.1_mc1.2.4:
+            0.6.1_mc1.2.5:
+            0.7.1_mc1.3.2:
+            0.7.2_mc1.3.2:
+            v8.1.0:
+
+    voxelsnipergui:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.7:
+
+    voxeltextures:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            0.4.0_mc1.2.3:
+            0.4.1_mc1.2.4:
+            0.4.2_mc1.2.5:
+            0.4.3_mc1.2.5:
+            0.6.5_mc1.3.2:
+            0.6.8_mc1.3.2:
+
+    voxelworld:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v8.1.0:
+
+    wirelessredstone:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.4:
+            v1.5-1.2.5:
+            v1.5.1:
+            v1.5.2:
+            v1.5.3:
+            v1.5:
+
+    worldeditcui:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            1.3.2a_mc1.3.2_voxelmodpack_patched:
+            v1.0:
+            v1.1:
+            v1.2:
+            v1.2_mc1.2.4:
+
+    wrcbe:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.2.0:
+            v1.2.1:
+            v1.2.2.1:
+            v1.2.2.3:
+            v1.3.1.1:
+            v1.3.2.4:
+            v1.3.2.8:
+            v1.3.2:
+            addons-v1.3.1.2:
+            addons-v1.3.2.4:
+            addons-v1.3.2.8:
+            addons-v1.3.2:
+            redpower-v1.3.2.4:
+            redpower-v1.3.2.8:
+            redpower-v1.3.2:
+
+    xpbook:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            ssp-1.2.5:
+            v4:
+            v5:
+
+    xreliquary:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.05b:
+            v1.05d:
+
+    xycraft:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v0.10.18:
+            v0.9.44:
+
+    zeppelin:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.1.0.0.25:
+            v1.1.0.0.28:
+            v1.1.0.0.30:
+
+    zgravisuite:
+        name: ""
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.6:
+            v1.7:
 

@@ -43,6 +43,7 @@ class ModLibrary(object):
             for z in self.modlist.mods[x]:
                 towrite +="\t\t\t"+z+":\n"
             towrite+="\n"
+            towrite=towrite.replace("\t","    ")
         f.write(towrite)
         f.close()
 
